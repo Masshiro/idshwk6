@@ -1,6 +1,6 @@
 # The Sixth Homework of Class IDS
 
-## Make a live data collection of my computer, and output contents into file named 'test.log'.
+## Make a live data collection of the computer, and output contents into the file named 'test.log'.
 The file includes:
 - date and time
 - OS version
