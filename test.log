@@ -1,0 +1,914 @@
+Date:
+Tue Apr 28 10:41:56 CST 2020
+
+OS version:
+ProductName:	Mac OS X
+ProductVersion:	10.15.4
+BuildVersion:	19E287
+
+Hardware informations:
+kernel:
+Darwin Kwans-MacBook-Pro.local 19.4.0 Darwin Kernel Version 19.4.0: Wed Mar  4 22:28:40 PST 2020; root:xnu-6153.101.6~15/RELEASE_X86_64 x86_64
+CPU:
+machdep.cpu.max_basic: 22
+machdep.cpu.max_ext: 2147483656
+machdep.cpu.vendor: GenuineIntel
+machdep.cpu.brand_string: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz
+machdep.cpu.family: 6
+machdep.cpu.model: 158
+machdep.cpu.extmodel: 9
+machdep.cpu.extfamily: 0
+machdep.cpu.stepping: 10
+machdep.cpu.feature_bits: 9221959987971750911
+machdep.cpu.leaf7_feature_bits: 43804591 1073741824
+machdep.cpu.leaf7_feature_bits_edx: 2617254912
+machdep.cpu.extfeature_bits: 1241984796928
+machdep.cpu.signature: 591594
+machdep.cpu.brand: 0
+machdep.cpu.features: FPU VME DE PSE TSC MSR PAE MCE CX8 APIC SEP MTRR PGE MCA CMOV PAT PSE36 CLFSH DS ACPI MMX FXSR SSE SSE2 SS HTT TM PBE SSE3 PCLMULQDQ DTES64 MON DSCPL VMX EST TM2 SSSE3 FMA CX16 TPR PDCM SSE4.1 SSE4.2 x2APIC MOVBE POPCNT AES PCID XSAVE OSXSAVE SEGLIM64 TSCTMR AVX1.0 RDRAND F16C
+machdep.cpu.leaf7_features: RDWRFSGS TSC_THREAD_OFFSET SGX BMI1 AVX2 SMEP BMI2 ERMS INVPCID FPU_CSDS MPX RDSEED ADX SMAP CLFSOPT IPT SGXLC MDCLEAR TSXFA IBRS STIBP L1DF SSBD
+machdep.cpu.extfeatures: SYSCALL XD 1GBPAGE EM64T LAHF LZCNT PREFETCHW RDTSCP TSCI
+machdep.cpu.logical_per_package: 16
+machdep.cpu.cores_per_package: 8
+machdep.cpu.microcode_version: 202
+machdep.cpu.processor_flag: 5
+machdep.cpu.mwait.linesize_min: 64
+machdep.cpu.mwait.linesize_max: 64
+machdep.cpu.mwait.extensions: 3
+machdep.cpu.mwait.sub_Cstates: 286531872
+machdep.cpu.thermal.sensor: 1
+machdep.cpu.thermal.dynamic_acceleration: 1
+machdep.cpu.thermal.invariant_APIC_timer: 1
+machdep.cpu.thermal.thresholds: 2
+machdep.cpu.thermal.ACNT_MCNT: 1
+machdep.cpu.thermal.core_power_limits: 1
+machdep.cpu.thermal.fine_grain_clock_mod: 1
+machdep.cpu.thermal.package_thermal_intr: 1
+machdep.cpu.thermal.hardware_feedback: 0
+machdep.cpu.thermal.energy_policy: 1
+machdep.cpu.xsave.extended_state: 31 832 1088 0
+machdep.cpu.xsave.extended_state1: 15 832 256 0
+machdep.cpu.arch_perf.version: 4
+machdep.cpu.arch_perf.number: 4
+machdep.cpu.arch_perf.width: 48
+machdep.cpu.arch_perf.events_number: 7
+machdep.cpu.arch_perf.events: 0
+machdep.cpu.arch_perf.fixed_number: 3
+machdep.cpu.arch_perf.fixed_width: 48
+machdep.cpu.cache.linesize: 64
+machdep.cpu.cache.L2_associativity: 4
+machdep.cpu.cache.size: 256
+machdep.cpu.tlb.inst.large: 8
+machdep.cpu.tlb.data.small: 64
+machdep.cpu.tlb.data.small_level1: 64
+machdep.cpu.address_bits.physical: 39
+machdep.cpu.address_bits.virtual: 48
+machdep.cpu.core_count: 6
+machdep.cpu.thread_count: 12
+machdep.cpu.tsc_ccc.numerator: 216
+machdep.cpu.tsc_ccc.denominator: 2
+memory:
+The system has 2147483648 (524288 pages with a page size of 4096).
+
+Stats: 
+Pages free: 305591 
+Pages purgeable: 50486 
+Pages purged: 3050393 
+
+Swap I/O:
+Swapins: 7628463 
+Swapouts: 8082850 
+
+Page Q counts:
+Pages active: 1162778 
+Pages inactive: 878079 
+Pages speculative: 291802 
+Pages throttled: 0 
+Pages wired down: 986681 
+
+Compressor Stats:
+Pages used by compressor: 568567 
+Pages decompressed: 7721286 
+Pages compressed: 12549411 
+
+File I/O:
+Pageins: 10834808 
+Pageouts: 12898 
+
+System-wide memory free percentage: 62%
+network hardware information:
+
+Hardware Port: Wi-Fi
+Device: en0
+Ethernet Address: a4:83:e7:90:32:0d
+
+Hardware Port: Bluetooth PAN
+Device: en6
+Ethernet Address: a4:83:e7:8d:51:44
+
+Hardware Port: Thunderbolt 1
+Device: en1
+Ethernet Address: 82:eb:c5:42:14:01
+
+Hardware Port: Thunderbolt 2
+Device: en2
+Ethernet Address: 82:eb:c5:42:14:00
+
+Hardware Port: Thunderbolt 3
+Device: en3
+Ethernet Address: 82:eb:c5:42:14:05
+
+Hardware Port: Thunderbolt 4
+Device: en4
+Ethernet Address: 82:eb:c5:42:14:04
+
+Hardware Port: Thunderbolt Bridge
+Device: bridge0
+Ethernet Address: 82:eb:c5:42:14:01
+
+VLAN Configurations
+===================
+
+Uptime:
+10:41  up 4 days,  2:24, 2 users, load averages: 0.61 0.74 0.86
+
+Service information:
+-	0	com.google.keystone.user.xpcservice
+1295	0	com.apple.corespotlightservice.1F96449A-51A1-466D-AC08-DA4755C204BF
+-	0	com.apple.syncservices.uihandler
+405	0	com.apple.iconservices.iconservicesagent
+1507	0	com.apple.assistant_service
+587	0	com.apple.keyboardservicesd
+-	0	com.apple.coreservices.UASharedPasteboardProgressUI
+412	0	com.apple.networkserviceproxy
+39292	0	com.apple.coreservices.uiagent
+477	0	com.apple.coreservices.useractivityd
+592	0	com.apple.siri.context.service
+416	0	com.apple.identityservicesd
+430	0	com.apple.telephonyutilities.callservicesd
+396	0	com.apple.coreservices.sharedfilelistd
+-	0	com.apple.syncservices.SyncServer
+572	0	com.apple.hiservices-xpcservice
+-	0	com.apple.corespotlightservice
+-	0	com.apple.ap.adservicesd
+-	0	com.apple.CoreRoutine.helperservice
+
+NIC information:
+lo0: flags=8049<UP,LOOPBACK,RUNNING,MULTICAST> mtu 16384
+	options=1203<RXCSUM,TXCSUM,TXSTATUS,SW_TIMESTAMP>
+	inet 127.0.0.1 netmask 0xff000000 
+	inet6 ::1 prefixlen 128 
+	inet6 fe80::1%lo0 prefixlen 64 scopeid 0x1 
+	nd6 options=201<PERFORMNUD,DAD>
+gif0: flags=8010<POINTOPOINT,MULTICAST> mtu 1280
+stf0: flags=0<> mtu 1280
+XHC0: flags=0<> mtu 0
+XHC1: flags=0<> mtu 0
+XHC20: flags=0<> mtu 0
+VHC128: flags=0<> mtu 0
+en5: flags=8863<UP,BROADCAST,SMART,RUNNING,SIMPLEX,MULTICAST> mtu 1500
+	ether ac:de:48:00:11:22 
+	inet6 fe80::aede:48ff:fe00:1122%en5 prefixlen 64 scopeid 0x8 
+	nd6 options=201<PERFORMNUD,DAD>
+	media: autoselect (100baseTX <full-duplex>)
+	status: active
+ap1: flags=8802<BROADCAST,SIMPLEX,MULTICAST> mtu 1500
+	options=400<CHANNEL_IO>
+	ether a6:83:e7:90:32:0d 
+	media: autoselect
+	status: inactive
+en0: flags=8863<UP,BROADCAST,SMART,RUNNING,SIMPLEX,MULTICAST> mtu 1500
+	options=400<CHANNEL_IO>
+	ether a4:83:e7:90:32:0d 
+	inet6 fe80::cde:282b:5d3e:a0af%en0 prefixlen 64 secured scopeid 0xa 
+	inet 192.168.0.104 netmask 0xffffff00 broadcast 192.168.0.255
+	nd6 options=201<PERFORMNUD,DAD>
+	media: autoselect
+	status: active
+p2p0: flags=8843<UP,BROADCAST,RUNNING,SIMPLEX,MULTICAST> mtu 2304
+	options=400<CHANNEL_IO>
+	ether 06:83:e7:90:32:0d 
+	media: autoselect
+	status: inactive
+awdl0: flags=8943<UP,BROADCAST,RUNNING,PROMISC,SIMPLEX,MULTICAST> mtu 1484
+	options=400<CHANNEL_IO>
+	ether ae:92:0d:b5:0c:b9 
+	inet6 fe80::ac92:dff:feb5:cb9%awdl0 prefixlen 64 scopeid 0xc 
+	nd6 options=201<PERFORMNUD,DAD>
+	media: autoselect
+	status: active
+llw0: flags=8863<UP,BROADCAST,SMART,RUNNING,SIMPLEX,MULTICAST> mtu 1500
+	options=400<CHANNEL_IO>
+	ether ae:92:0d:b5:0c:b9 
+	inet6 fe80::ac92:dff:feb5:cb9%llw0 prefixlen 64 scopeid 0xd 
+	nd6 options=201<PERFORMNUD,DAD>
+	media: autoselect
+	status: active
+en1: flags=8963<UP,BROADCAST,SMART,RUNNING,PROMISC,SIMPLEX,MULTICAST> mtu 1500
+	options=460<TSO4,TSO6,CHANNEL_IO>
+	ether 82:eb:c5:42:14:01 
+	media: autoselect <full-duplex>
+	status: inactive
+en2: flags=8963<UP,BROADCAST,SMART,RUNNING,PROMISC,SIMPLEX,MULTICAST> mtu 1500
+	options=460<TSO4,TSO6,CHANNEL_IO>
+	ether 82:eb:c5:42:14:00 
+	media: autoselect <full-duplex>
+	status: inactive
+en3: flags=8963<UP,BROADCAST,SMART,RUNNING,PROMISC,SIMPLEX,MULTICAST> mtu 1500
+	options=460<TSO4,TSO6,CHANNEL_IO>
+	ether 82:eb:c5:42:14:05 
+	media: autoselect <full-duplex>
+	status: inactive
+en4: flags=8963<UP,BROADCAST,SMART,RUNNING,PROMISC,SIMPLEX,MULTICAST> mtu 1500
+	options=460<TSO4,TSO6,CHANNEL_IO>
+	ether 82:eb:c5:42:14:04 
+	media: autoselect <full-duplex>
+	status: inactive
+bridge0: flags=8863<UP,BROADCAST,SMART,RUNNING,SIMPLEX,MULTICAST> mtu 1500
+	options=63<RXCSUM,TXCSUM,TSO4,TSO6>
+	ether 82:eb:c5:42:14:01 
+	Configuration:
+		id 0:0:0:0:0:0 priority 0 hellotime 0 fwddelay 0
+		maxage 0 holdcnt 0 proto stp maxaddr 100 timeout 1200
+		root id 0:0:0:0:0:0 priority 0 ifcost 0 port 0
+		ipfilter disabled flags 0x0
+	member: en1 flags=3<LEARNING,DISCOVER>
+	        ifmaxaddr 0 port 14 priority 0 path cost 0
+	member: en2 flags=3<LEARNING,DISCOVER>
+	        ifmaxaddr 0 port 15 priority 0 path cost 0
+	member: en3 flags=3<LEARNING,DISCOVER>
+	        ifmaxaddr 0 port 16 priority 0 path cost 0
+	member: en4 flags=3<LEARNING,DISCOVER>
+	        ifmaxaddr 0 port 17 priority 0 path cost 0
+	nd6 options=201<PERFORMNUD,DAD>
+	media: <unknown type>
+	status: inactive
+utun0: flags=8051<UP,POINTOPOINT,RUNNING,MULTICAST> mtu 1380
+	inet6 fe80::61dc:97d:b6cb:6f65%utun0 prefixlen 64 scopeid 0x13 
+	nd6 options=201<PERFORMNUD,DAD>
+utun1: flags=8051<UP,POINTOPOINT,RUNNING,MULTICAST> mtu 2000
+	inet6 fe80::52a2:1128:b081:77bc%utun1 prefixlen 64 scopeid 0x14 
+	nd6 options=201<PERFORMNUD,DAD>
+utun2: flags=8051<UP,POINTOPOINT,RUNNING,MULTICAST> mtu 1380
+	inet6 fe80::9906:a73c:b21f:27b4%utun2 prefixlen 64 scopeid 0x15 
+	nd6 options=201<PERFORMNUD,DAD>
+utun3: flags=8051<UP,POINTOPOINT,RUNNING,MULTICAST> mtu 1380
+	inet6 fe80::6788:5b9f:b62f:e23d%utun3 prefixlen 64 scopeid 0x16 
+	nd6 options=201<PERFORMNUD,DAD>
+utun4: flags=8051<UP,POINTOPOINT,RUNNING,MULTICAST> mtu 1380
+	inet6 fe80::5f75:451a:48a4:142%utun4 prefixlen 64 scopeid 0x18 
+	nd6 options=201<PERFORMNUD,DAD>
+utun5: flags=8051<UP,POINTOPOINT,RUNNING,MULTICAST> mtu 1380
+	inet6 fe80::2a78:c4ee:219:a7c6%utun5 prefixlen 64 scopeid 0x19 
+	nd6 options=201<PERFORMNUD,DAD>
+vmnet1: flags=8863<UP,BROADCAST,SMART,RUNNING,SIMPLEX,MULTICAST> mtu 1500
+	ether 00:50:56:c0:00:01 
+	inet 172.16.84.1 netmask 0xffffff00 broadcast 172.16.84.255
+vmnet8: flags=8863<UP,BROADCAST,SMART,RUNNING,SIMPLEX,MULTICAST> mtu 1500
+	ether 00:50:56:c0:00:08 
+	inet 172.16.245.1 netmask 0xffffff00 broadcast 172.16.245.255
+
+Route information:
+Routing tables
+
+Internet:
+Destination        Gateway            Flags        Netif Expire
+default            192.168.0.1        UGSc           en0       
+127                127.0.0.1          UCS            lo0       
+127.0.0.1          127.0.0.1          UH             lo0       
+169.254            link#10            UCS            en0      !
+172.16.84/24       link#26            UC          vmnet1      !
+172.16.245/24      link#27            UC          vmnet8      !
+192.168.0          link#10            UCS            en0      !
+192.168.0.1/32     link#10            UCS            en0      !
+192.168.0.1        20:6b:e7:4b:84:f0  UHLWIir        en0   1177
+192.168.0.102      bc:a9:20:cc:bc:e8  UHLWIi         en0   1099
+192.168.0.103      d4:61:da:82:a0:fb  UHLWIi         en0   1190
+192.168.0.104/32   link#10            UCS            en0      !
+224.0.0/4          link#10            UmCS           en0      !
+224.0.0.251        1:0:5e:0:0:fb      UHmLWI         en0       
+239.255.255.250    1:0:5e:7f:ff:fa    UHmLWI         en0       
+255.255.255.255/32 link#10            UCS            en0      !
+
+Internet6:
+Destination                             Gateway                         Flags         Netif Expire
+default                                 fe80::%utun0                    UGcI          utun0       
+default                                 fe80::%utun1                    UGcI          utun1       
+default                                 fe80::%utun2                    UGcI          utun2       
+default                                 fe80::%utun3                    UGcI          utun3       
+default                                 fe80::%utun4                    UGcI          utun4       
+default                                 fe80::%utun5                    UGcI          utun5       
+::1                                     ::1                             UHL             lo0       
+fe80::%lo0/64                           fe80::1%lo0                     UcI             lo0       
+fe80::1%lo0                             link#1                          UHLI            lo0       
+fe80::%en5/64                           link#8                          UCI             en5       
+fe80::aede:48ff:fe00:1122%en5           ac:de:48:0:11:22                UHLI            lo0       
+fe80::aede:48ff:fe33:4455%en5           ac:de:48:33:44:55               UHLWIi          en5       
+fe80::%en0/64                           link#10                         UCI             en0       
+fe80::cb3:c7b2:80d:e571%en0             bc:a9:20:cc:bc:e8               UHLWIi          en0       
+fe80::cde:282b:5d3e:a0af%en0            a4:83:e7:90:32:d                UHLI            lo0       
+fe80::1402:2f71:37f5:97b0%en0           14:bd:61:97:13:d                UHLWI           en0       
+fe80::%awdl0/64                         link#12                         UCI           awdl0       
+fe80::ac92:dff:feb5:cb9%awdl0           ae:92:d:b5:c:b9                 UHLI            lo0       
+fe80::%llw0/64                          link#13                         UCI            llw0       
+fe80::ac92:dff:feb5:cb9%llw0            ae:92:d:b5:c:b9                 UHLI            lo0       
+fe80::%utun0/64                         fe80::61dc:97d:b6cb:6f65%utun0  UcI           utun0       
+fe80::61dc:97d:b6cb:6f65%utun0          link#19                         UHLI            lo0       
+fe80::%utun1/64                         fe80::52a2:1128:b081:77bc%utun1 UcI           utun1       
+fe80::52a2:1128:b081:77bc%utun1         link#20                         UHLI            lo0       
+fe80::%utun2/64                         fe80::9906:a73c:b21f:27b4%utun2 UcI           utun2       
+fe80::9906:a73c:b21f:27b4%utun2         link#21                         UHLI            lo0       
+fe80::%utun3/64                         fe80::6788:5b9f:b62f:e23d%utun3 UcI           utun3       
+fe80::6788:5b9f:b62f:e23d%utun3         link#22                         UHLI            lo0       
+fe80::%utun4/64                         fe80::5f75:451a:48a4:142%utun4  UcI           utun4       
+fe80::5f75:451a:48a4:142%utun4          link#24                         UHLI            lo0       
+fe80::%utun5/64                         fe80::2a78:c4ee:219:a7c6%utun5  UcI           utun5       
+fe80::2a78:c4ee:219:a7c6%utun5          link#25                         UHLI            lo0       
+ff01::%lo0/32                           ::1                             UmCI            lo0       
+ff01::%en5/32                           link#8                          UmCI            en5       
+ff01::%en0/32                           link#10                         UmCI            en0       
+ff01::%awdl0/32                         link#12                         UmCI          awdl0       
+ff01::%llw0/32                          link#13                         UmCI           llw0       
+ff01::%utun0/32                         fe80::61dc:97d:b6cb:6f65%utun0  UmCI          utun0       
+ff01::%utun1/32                         fe80::52a2:1128:b081:77bc%utun1 UmCI          utun1       
+ff01::%utun2/32                         fe80::9906:a73c:b21f:27b4%utun2 UmCI          utun2       
+ff01::%utun3/32                         fe80::6788:5b9f:b62f:e23d%utun3 UmCI          utun3       
+ff01::%utun4/32                         fe80::5f75:451a:48a4:142%utun4  UmCI          utun4       
+ff01::%utun5/32                         fe80::2a78:c4ee:219:a7c6%utun5  UmCI          utun5       
+ff02::%lo0/32                           ::1                             UmCI            lo0       
+ff02::%en5/32                           link#8                          UmCI            en5       
+ff02::%en0/32                           link#10                         UmCI            en0       
+ff02::%awdl0/32                         link#12                         UmCI          awdl0       
+ff02::%llw0/32                          link#13                         UmCI           llw0       
+ff02::%utun0/32                         fe80::61dc:97d:b6cb:6f65%utun0  UmCI          utun0       
+ff02::%utun1/32                         fe80::52a2:1128:b081:77bc%utun1 UmCI          utun1       
+ff02::%utun2/32                         fe80::9906:a73c:b21f:27b4%utun2 UmCI          utun2       
+ff02::%utun3/32                         fe80::6788:5b9f:b62f:e23d%utun3 UmCI          utun3       
+ff02::%utun4/32                         fe80::5f75:451a:48a4:142%utun4  UmCI          utun4       
+ff02::%utun5/32                         fe80::2a78:c4ee:219:a7c6%utun5  UmCI          utun5       
+
+ARP information
+? (192.168.0.1) at 20:6b:e7:4b:84:f0 on en0 ifscope [ethernet]
+? (192.168.0.102) at bc:a9:20:cc:bc:e8 on en0 ifscope [ethernet]
+? (192.168.0.103) at d4:61:da:82:a0:fb on en0 ifscope [ethernet]
+? (224.0.0.251) at 1:0:5e:0:0:fb on en0 ifscope permanent [ethernet]
+? (239.255.255.250) at 1:0:5e:7f:ff:fa on en0 ifscope permanent [ethernet]
+
+Information of processes:
+USER               PID  %CPU %MEM      VSZ    RSS   TT  STAT STARTED      TIME COMMAND
+root             39268  27.6  6.3  6913760 1053732   ??  R     8:22AM  37:00.35 /Applications/VMware Fusion.app/Contents/Library/vmware-vmx -E en -s vmx.stdio.keep=TRUE -# product=64;name=VMware Fusion;version=11.5.0;buildnumber=14634996;licensename=VMware Fusion for Mac OS;licenseversion=11.0; -@ duplex=3;msgs=ui -D 4 /Users/masshiro/Virtual Machines.localized/Ubuntu 64-bit 18.04.vmwarevm/Ubuntu 64-bit 18.04.vmx
+masshiro         43976   4.2  0.8  9016624 133972   ??  S    10:38AM   0:04.18 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/81.0.4044.122/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --field-trial-handle=1718379636,6005351805522046289,11675208128047520950,131072 --enable-features=ParallelDownloading --lang=en-US --metrics-client-id=44581a73-dc07-43e7-95d3-dc755c3e1814 --enable-auto-reload --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=668 --no-v8-untrusted-code-mitigations --shared-files --seatbelt-client=179
+masshiro         39953   4.0  0.5  5111192  77808   ??  S     8:51AM   0:22.58 /System/Applications/Utilities/Terminal.app/Contents/MacOS/Terminal
+masshiro         42461   3.6  0.8  5163200 136992   ??  S     9:53AM   0:35.42 /System/Applications/Utilities/Activity Monitor.app/Contents/MacOS/Activity Monitor
+_windowserver      254   2.3  0.5  8627580  85168   ??  Ss   Fri08AM 115:26.31 /System/Library/PrivateFrameworks/SkyLight.framework/Resources/WindowServer -daemon
+masshiro           378   1.8  0.4  5246888  74920   ??  S    Fri08AM   2:23.54 /System/Library/CoreServices/Finder.app/Contents/MacOS/Finder
+root               132   1.8  0.1  4431156  11268   ??  Ss   Fri08AM   0:44.02 /System/Library/CoreServices/launchservicesd
+masshiro         44062   1.1  0.0  4310888    820 s000  S+   10:41AM   0:00.01 -bash
+masshiro           479   0.8  0.0  4947236   7700   ??  S    Fri08AM   0:03.05 /System/Library/Frameworks/QuickLookThumbnailing.framework/Support/com.apple.quicklook.ThumbnailsAgent
+masshiro          1392   0.7  0.1  6267308  15812   ??  Ss   Fri08AM   0:15.90 /System/Library/Frameworks/QuickLook.framework/Versions/A/XPCServices/QuickLookSatellite.xpc/Contents/MacOS/QuickLookSatellite
+root               211   0.6  0.0  4428148   7112   ??  Ss   Fri08AM   0:18.12 /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/authd.xpc/Contents/MacOS/authd
+masshiro          2275   0.5  1.3  7605212 225584   ??  S    Fri08AM   9:07.21 /Applications/PDF Expert.app/Contents/MacOS/PDF Expert
+root                 1   0.4  0.1  4406204  23916   ??  Ss   Fri08AM   4:48.97 /sbin/launchd
+root               159   0.3  0.0  4400120   5752   ??  Ss   Fri08AM   1:25.60 /usr/sbin/notifyd
+root               221   0.3  0.1  4439332  10772   ??  Ss   Fri08AM   1:12.25 /usr/libexec/trustd
+root               321   0.3  0.1  4545268  16712   ??  Ss   Fri08AM   2:15.03 /usr/libexec/TouchBarServer
+_networkd          256   0.3  0.1  4433152   8524   ??  Ss   Fri08AM   1:02.13 /usr/libexec/symptomsd
+_mdnsresponder     257   0.3  0.0  4427500   3680   ??  Ss   Fri08AM   0:33.36 /usr/sbin/mDNSResponder
+root               151   0.2  0.1  4373764  10548   ??  Ss   Fri08AM  14:06.83 /Applications/EasyConnect.app/Contents/Resources/bin/EasyMonitor
+masshiro         39232   0.2  0.2  5362192  41572   ??  S     8:21AM   0:40.08 /Applications/VMware Fusion.app/Contents/Library/VMware Fusion Applications Menu.app/Contents/Frameworks/VMware Fusion Applications Menu Helper.app/Contents/MacOS/VMware Fusion Applications Menu Helper --type=renderer --no-sandbox --service-pipe-token=1AEF26BBCCB017B02B062C2D77E00B82 --lang=en-US --app-path=/Applications/VMware Fusion.app/Contents/Library/VMware Fusion Applications Menu.app/Contents/Resources/app.asar --node-integration=true --webview-tag=true --no-sandbox --context-id=2 --enable-pinch --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,34037;0,12,34037;0,13,34037;0,14,3553;0,15,3553;0,16,3553;0,17,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,34037;1,12,34037;1,13,34037;1,14,3553;1,15,3553;1,16,3553;1,17,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,34037;2,12,34037;2,13,34037;2,14,3553;2,15,3553;2,16,3553;2,17,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,34037;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,34037;3,14,34037;3,15,3553;3,16,34037;3,17,34037;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,34037;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,34037;4,14,34037;4,15,3553;4,16,34037;4,17,34037 --enable-gpu-async-worker-context --service-request-channel-token=1AEF26BBCCB017B02B062C2D77E00B82 --renderer-client-id=4
+masshiro         40293   0.2  0.6  9148596  94712   ??  S     9:04AM   0:39.00 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/81.0.4044.122/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --field-trial-handle=1718379636,6005351805522046289,11675208128047520950,131072 --enable-features=ParallelDownloading --lang=en-US --metrics-client-id=44581a73-dc07-43e7-95d3-dc755c3e1814 --enable-auto-reload --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=452 --no-v8-untrusted-code-mitigations --shared-files --seatbelt-client=55
+masshiro         43563   0.2  0.9  9073640 156588   ??  S    10:23AM   0:07.71 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/81.0.4044.122/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --field-trial-handle=1718379636,6005351805522046289,11675208128047520950,131072 --enable-features=ParallelDownloading --lang=en-US --metrics-client-id=44581a73-dc07-43e7-95d3-dc755c3e1814 --enable-auto-reload --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=632 --no-v8-untrusted-code-mitigations --shared-files --seatbelt-client=178
+masshiro         39044   0.1  0.4  5135236  64688   ??  S     8:21AM   1:00.01 /Applications/VMware Fusion.app/Contents/MacOS/VMware Fusion
+masshiro         10446   0.1  0.4  8366452  73096   ??  S    Sun12AM   2:49.12 /Applications/Microsoft Outlook.app/Contents/MacOS/Microsoft Outlook
+masshiro         39230   0.1  0.1  4666172  20220   ??  S     8:21AM   0:21.30 /Applications/VMware Fusion.app/Contents/Library/VMware Fusion Applications Menu.app/Contents/Frameworks/VMware Fusion Applications Menu Helper.app/Contents/MacOS/VMware Fusion Applications Menu Helper --type=gpu-process --no-sandbox --supports-dual-gpus=true --gpu-driver-bug-workarounds=0,1,12,27,30,43,47,56,62,70,73,74,75,76,83,84,86,94,95,96,100,103 --disable-gl-extensions=GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent --gpu-vendor-id=0x1002 --gpu-device-id=0x67ef --gpu-driver-vendor --gpu-driver-version --gpu-driver-date --gpu-secondary-vendor-ids=0x8086 --gpu-secondary-device-ids=0x3e9b --gpu-active-vendor-id=0x8086 --gpu-active-device-id=0x3e9b --service-request-channel-token=3D14CB9129BC7A7FFB2E028C9289E2E6
+masshiro         30072   0.1  1.6  6030428 272004   ??  S     3:00PM  13:33.64 /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --enable-audio-service-sandbox
+masshiro         40003   0.1  0.5  9136636  86476   ??  S     8:52AM   0:30.41 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/81.0.4044.122/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --field-trial-handle=1718379636,6005351805522046289,11675208128047520950,131072 --enable-features=ParallelDownloading --lang=en-US --metrics-client-id=44581a73-dc07-43e7-95d3-dc755c3e1814 --enable-auto-reload --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=440 --no-v8-untrusted-code-mitigations --shared-files --seatbelt-client=178
+masshiro         43913   0.1  1.0  9082384 166036   ??  S    10:35AM   0:14.96 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/81.0.4044.122/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --field-trial-handle=1718379636,6005351805522046289,11675208128047520950,131072 --enable-features=ParallelDownloading --lang=en-US --metrics-client-id=44581a73-dc07-43e7-95d3-dc755c3e1814 --enable-auto-reload --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=666 --no-v8-untrusted-code-mitigations --shared-files --seatbelt-client=165
+masshiro         39213   0.1  0.3  5852712  46856   ??  S     8:21AM   0:26.24 /Applications/VMware Fusion.app/Contents/Library/VMware Fusion Applications Menu.app/Contents/MacOS/VMware Fusion Applications Menu -psn_0_2937549
+masshiro         40299   0.1  0.5  9126724  89884   ??  S     9:04AM   0:09.49 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/81.0.4044.122/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --field-trial-handle=1718379636,6005351805522046289,11675208128047520950,131072 --enable-features=ParallelDownloading --lang=en-US --metrics-client-id=44581a73-dc07-43e7-95d3-dc755c3e1814 --enable-auto-reload --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=455 --no-v8-untrusted-code-mitigations --shared-files --seatbelt-client=55
+masshiro           480   0.1  0.1  6124240  16824   ??  S    Fri08AM  12:39.67 /Applications/CheatSheet.app/Contents/MacOS/CheatSheet
+masshiro           359   0.1  0.0  4400896   4752   ??  S    Fri08AM   0:21.06 /usr/sbin/cfprefsd agent
+masshiro         42268   0.1  0.7  9085516 118348   ??  S     9:49AM   1:05.11 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/81.0.4044.122/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --field-trial-handle=1718379636,6005351805522046289,11675208128047520950,131072 --enable-features=ParallelDownloading --lang=en-US --metrics-client-id=44581a73-dc07-43e7-95d3-dc755c3e1814 --enable-auto-reload --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=560 --no-v8-untrusted-code-mitigations --shared-files --seatbelt-client=190
+masshiro         43017   0.0  0.0  4325740   5952   ??  Ss   10:04AM   0:00.02 /Applications/Xcode.app/Contents/SharedFrameworks/DVTSourceControl.framework/Versions/A/XPCServices/com.apple.dt.Xcode.sourcecontrol.SSHHelper.xpc/Contents/MacOS/com.apple.dt.Xcode.sourcecontrol.SSHHelper
+masshiro         42980   0.0  0.2  4441788  26808   ??  S    10:02AM   0:00.50 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+masshiro         42956   0.0  0.0  4390844   7464   ??  S    10:02AM   0:00.04 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/GPUToolsPlatform/GPUToolsAgent.app/Contents/MacOS/GPUToolsAgent
+masshiro         42955   0.0  0.1  4870620  23656   ??  Ss   10:02AM   0:00.18 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+masshiro         42954   0.0  0.1  4942096  10876   ??  S    10:02AM   0:00.09 /Library/Developer/PrivateFrameworks/CoreSimulator.framework/Versions/A/XPCServices/SimulatorTrampoline.xpc/Contents/MacOS/SimulatorTrampoline
+masshiro         42953   0.0  0.1  4947900  13544   ??  S    10:02AM   0:00.25 /Library/Developer/PrivateFrameworks/CoreSimulator.framework/Versions/A/XPCServices/com.apple.CoreSimulator.CoreSimulatorService.xpc/Contents/MacOS/com.apple.CoreSimulator.CoreSimulatorService
+masshiro         42947   0.0  1.4  6399548 240736   ??  S    10:02AM   0:17.59 /Applications/Xcode.app/Contents/MacOS/Xcode
+masshiro         42920   0.0  0.1  4420304  14924   ??  S    10:01AM   0:00.05 /System/Library/PrivateFrameworks/AMPDevices.framework/Versions/A/Support/AMPDeviceDiscoveryAgent --launchd
+masshiro         42907   0.0  0.1  4461144  16736   ??  S    10:01AM   0:00.15 /System/Library/PrivateFrameworks/MobileDevice.framework/Resources/MobileDeviceUpdater.app/Contents/MacOS/MobileDeviceUpdater
+_usbmuxd         42899   0.0  0.0  4384112   5496   ??  Ss   10:01AM   0:00.04 /System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/Resources/usbmuxd -launchd
+masshiro         42897   0.0  0.1  4850064   9716   ??  Ss   10:01AM   0:00.08 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+_spotlight       42879   0.0  0.0  4403700   5248   ??  S    10:01AM   0:00.05 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+masshiro         42829   0.0  0.1  4439592  21008   ??  S    10:00AM   0:00.63 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+masshiro         42825   0.0  0.1  4743648  20236   ??  S    10:00AM   0:00.20 /Applications/Visual Studio Code.app/Contents/Frameworks/Code Helper (Renderer).app/Contents/MacOS/Code Helper (Renderer) --type=utility --field-trial-handle=1718379636,3513222412285314231,17644867695914251195,131072 --disable-features=LayoutNG,PictureInPicture,SpareRendererForSitePerProcess --lang=en-US --service-sandbox-type=utility --service-request-channel-token=15336633832058860171 --seatbelt-client=61
+masshiro         42820   0.0  0.4  4933436  60936   ??  S    10:00AM   0:05.29 /Applications/Visual Studio Code.app/Contents/Frameworks/Code Helper (Renderer).app/Contents/MacOS/Code Helper (Renderer) --type=renderer --disable-color-correct-rendering --field-trial-handle=1718379636,3513222412285314231,17644867695914251195,131072 --disable-features=LayoutNG,PictureInPicture,SpareRendererForSitePerProcess --lang=en-US --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --app-path=/Applications/Visual Studio Code.app/Contents/Resources/app --node-integration --no-sandbox --no-zygote --background-color=#171717 --disable-blink-features=Auxclick --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --service-request-channel-token=14913394523774672787 --renderer-client-id=7 --no-v8-untrusted-code-mitigations
+masshiro         42748   0.0  0.0  4345056   3168   ??  S    10:00AM   0:00.01 /Applications/Visual Studio Code.app/Contents/Frameworks/Electron Framework.framework/Resources/crashpad_handler --no-rate-limit --no-upload-gzip --database=/var/folders/ml/9f2l_lx56pq67_97zr0_tk1m0000gn/T/VSCode Crashes --metrics-dir=/var/folders/ml/9f2l_lx56pq67_97zr0_tk1m0000gn/T/VSCode Crashes --url=appcenter://code?aid=c7e4d7b3-450d-4588-be82-872fedaf5016&uid=950433fc-8093-4368-89d3-c29ca6eb0efd&iid=950433fc-8093-4368-89d3-c29ca6eb0efd&sid=12646d3a-0951-405e-9389-b9eeb811e7fc1588039251620 --handshake-fd=57
+masshiro         42729   0.0  0.1  4605512  17244   ??  S    10:00AM   0:00.13 /Applications/Visual Studio Code.app/Contents/Frameworks/Code Helper.app/Contents/MacOS/Code Helper --type=utility --field-trial-handle=1718379636,3513222412285314231,17644867695914251195,131072 --disable-features=LayoutNG,PictureInPicture,SpareRendererForSitePerProcess --lang=en-US --service-sandbox-type=network --standard-schemes --secure-schemes=vscode-resource --bypasscsp-schemes --cors-schemes=vscode-resource --fetch-schemes=vscode-resource --service-worker-schemes --service-request-channel-token=10756561442567468913
+masshiro         42728   0.0  0.0  4411924   4044   ??  Ss   10:00AM   0:00.07 /System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VTDecoderXPCService.xpc/Contents/MacOS/VTDecoderXPCService
+masshiro         42727   0.0  0.2  4688260  36204   ??  S    10:00AM   0:01.64 /Applications/Visual Studio Code.app/Contents/Frameworks/Code Helper (GPU).app/Contents/MacOS/Code Helper (GPU) --type=gpu-process --field-trial-handle=1718379636,3513222412285314231,17644867695914251195,131072 --disable-features=LayoutNG,PictureInPicture,SpareRendererForSitePerProcess --disable-color-correct-rendering --gpu-preferences=KAAAAAAAAAAgAAAAAAAAAAAAYAAAAAAAEAAAAAAAAAAAAAAAAAAAAAgBAAAgAAAAAAEAAAAAAAAIAQAAAAAAABABAAAAAAAAGAEAAAAAAAAgAQAAAAAAACgBAAAAAAAAMAEAAAAAAAA4AQAAAAAAAEABAAAAAAAASAEAAAAAAABQAQAAAAAAAFgBAAAAAAAAYAEAAAAAAABoAQAAAAAAAHABAAAAAAAAeAEAAAAAAACAAQAAAAAAAIgBAAAAAAAAkAEAAAAAAACYAQAAAAAAAKABAAAAAAAAqAEAAAAAAACwAQAAAAAAALgBAAAAAAAAwAEAAAAAAADIAQAAAAAAANABAAAAAAAA2AEAAAAAAADgAQAAAAAAAOgBAAAAAAAA8AEAAAAAAAD4AQAAAAAAABAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAACAAAAEAAAAAAAAAAAAAAABgAAABAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAAAAAAACgAAABAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAAAAAAANAAAAEAAAAAAAAAABAAAAAAAAABAAAAAAAAAAAQAAAAIAAAAQAAAAAAAAAAEAAAAGAAAAEAAAAAAAAAABAAAABwAAABAAAAAAAAAAAQAAAAgAAAAQAAAAAAAAAAEAAAAKAAAAEAAAAAAAAAABAAAACwAAABAAAAAAAAAAAQAAAA0AAAAQAAAAAAAAAAQAAAAAAAAAEAAAAAAAAAAEAAAAAgAAABAAAAAAAAAABAAAAAYAAAAQAAAAAAAAAAQAAAAHAAAAEAAAAAAAAAAEAAAACAAAABAAAAAAAAAABAAAAAoAAAAQAAAAAAAAAAQAAAALAAAAEAAAAAAAAAAEAAAADQAAABAAAAAAAAAABgAAAAAAAAAQAAAAAAAAAAYAAAACAAAAEAAAAAAAAAAGAAAABgAAABAAAAAAAAAABgAAAAcAAAAQAAAAAAAAAAYAAAAIAAAAEAAAAAAAAAAGAAAACgAAABAAAAAAAAAABgAAAAsAAAAQAAAAAAAAAAYAAAANAAAA --service-request-channel-token=3137613230515532571
+masshiro         42725   0.0  0.5  5452596  80724   ??  S    10:00AM   0:04.41 /Applications/Visual Studio Code.app/Contents/MacOS/Electron
+masshiro         42702   0.0  0.1  4858256  18448   ??  Ss   10:00AM   0:00.06 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+masshiro         42695   0.0  0.1  6005872  15976   ??  Ss   10:00AM   0:00.19 /System/Library/Frameworks/Quartz.framework/Versions/A/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService
+masshiro         42694   0.0  0.5  6145064  75636   ??  Ss   10:00AM   0:59.29 /System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/com.apple.appkit.xpc.openAndSavePanelService.xpc/Contents/MacOS/com.apple.appkit.xpc.openAndSavePanelService
+masshiro         42686   0.0  0.9  9058848 158572   ??  S    10:00AM   0:05.39 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/81.0.4044.122/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --field-trial-handle=1718379636,6005351805522046289,11675208128047520950,131072 --enable-features=ParallelDownloading --lang=en-US --metrics-client-id=44581a73-dc07-43e7-95d3-dc755c3e1814 --enable-auto-reload --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=584 --no-v8-untrusted-code-mitigations --shared-files --seatbelt-client=68
+masshiro         42677   0.0  0.3  8917764  46444   ??  S     9:59AM   0:00.42 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/81.0.4044.122/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --field-trial-handle=1718379636,6005351805522046289,11675208128047520950,131072 --enable-features=ParallelDownloading --lang=en-US --metrics-client-id=44581a73-dc07-43e7-95d3-dc755c3e1814 --enable-auto-reload --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=582 --no-v8-untrusted-code-mitigations --shared-files --seatbelt-client=68
+masshiro         42621   0.0  1.0  9142528 174896   ??  S     9:58AM   0:05.90 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/81.0.4044.122/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --field-trial-handle=1718379636,6005351805522046289,11675208128047520950,131072 --enable-features=ParallelDownloading --lang=en-US --metrics-client-id=44581a73-dc07-43e7-95d3-dc755c3e1814 --enable-auto-reload --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=578 --no-v8-untrusted-code-mitigations --shared-files --seatbelt-client=211
+masshiro         42463   0.0  0.1  4876652   8688   ??  Ss    9:53AM   0:00.10 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+root             42462   0.0  0.0  4380832   1492   ??  Ss    9:53AM   0:00.02 /System/Library/PrivateFrameworks/AssetCacheServicesExtensions.framework/XPCServices/AssetCacheManagerService.xpc/Contents/MacOS/AssetCacheManagerService
+masshiro         42274   0.0  0.6  9044764 109008   ??  S     9:50AM   0:02.60 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/81.0.4044.122/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --field-trial-handle=1718379636,6005351805522046289,11675208128047520950,131072 --enable-features=ParallelDownloading --lang=en-US --metrics-client-id=44581a73-dc07-43e7-95d3-dc755c3e1814 --enable-auto-reload --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=561 --no-v8-untrusted-code-mitigations --shared-files --seatbelt-client=211
+masshiro         41814   0.0  0.4  9015496  67848   ??  S     9:30AM   0:06.16 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/81.0.4044.122/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --field-trial-handle=1718379636,6005351805522046289,11675208128047520950,131072 --enable-features=ParallelDownloading --lang=en-US --metrics-client-id=44581a73-dc07-43e7-95d3-dc755c3e1814 --enable-auto-reload --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=523 --no-v8-untrusted-code-mitigations --shared-files --seatbelt-client=68
+masshiro         40854   0.0  0.6  9051680  95688   ??  S     9:22AM   0:05.71 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/81.0.4044.122/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --field-trial-handle=1718379636,6005351805522046289,11675208128047520950,131072 --enable-features=ParallelDownloading --lang=en-US --metrics-client-id=44581a73-dc07-43e7-95d3-dc755c3e1814 --enable-auto-reload --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=505 --no-v8-untrusted-code-mitigations --shared-files --seatbelt-client=71
+masshiro         40827   0.0  0.4  8999764  63152   ??  S     9:21AM   0:08.13 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/81.0.4044.122/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --field-trial-handle=1718379636,6005351805522046289,11675208128047520950,131072 --enable-features=ParallelDownloading --lang=en-US --metrics-client-id=44581a73-dc07-43e7-95d3-dc755c3e1814 --enable-auto-reload --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=503 --no-v8-untrusted-code-mitigations --shared-files --seatbelt-client=68
+masshiro         40791   0.0  0.4  9054372  73900   ??  S     9:20AM   0:05.77 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/81.0.4044.122/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --field-trial-handle=1718379636,6005351805522046289,11675208128047520950,131072 --enable-features=ParallelDownloading --lang=en-US --metrics-client-id=44581a73-dc07-43e7-95d3-dc755c3e1814 --enable-auto-reload --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=494 --no-v8-untrusted-code-mitigations --shared-files --seatbelt-client=63
+masshiro         40769   0.0  0.4  9297560  61416   ??  S     9:19AM   0:04.09 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/81.0.4044.122/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --field-trial-handle=1718379636,6005351805522046289,11675208128047520950,131072 --enable-features=ParallelDownloading --lang=en-US --metrics-client-id=44581a73-dc07-43e7-95d3-dc755c3e1814 --enable-auto-reload --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=489 --no-v8-untrusted-code-mitigations --shared-files --seatbelt-client=63
+root             40708   0.0  0.0  4415540   3476   ??  Ss    9:17AM   0:00.03 /System/Library/PrivateFrameworks/SystemAdministration.framework/XPCServices/writeconfig.xpc/Contents/MacOS/writeconfig
+masshiro         40429   0.0  0.4  8961028  59988   ??  S     9:08AM   0:03.02 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/81.0.4044.122/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --field-trial-handle=1718379636,6005351805522046289,11675208128047520950,131072 --enable-features=ParallelDownloading --lang=en-US --metrics-client-id=44581a73-dc07-43e7-95d3-dc755c3e1814 --enable-auto-reload --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=465 --no-v8-untrusted-code-mitigations --shared-files --seatbelt-client=70
+masshiro         40426   0.0  0.5  9011796  87792   ??  S     9:08AM   0:05.51 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/81.0.4044.122/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --field-trial-handle=1718379636,6005351805522046289,11675208128047520950,131072 --enable-features=ParallelDownloading --lang=en-US --metrics-client-id=44581a73-dc07-43e7-95d3-dc755c3e1814 --enable-auto-reload --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=463 --no-v8-untrusted-code-mitigations --shared-files --seatbelt-client=70
+masshiro         40417   0.0  0.4  9046672  59264   ??  S     9:08AM   0:03.86 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/81.0.4044.122/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --field-trial-handle=1718379636,6005351805522046289,11675208128047520950,131072 --enable-features=ParallelDownloading --lang=en-US --metrics-client-id=44581a73-dc07-43e7-95d3-dc755c3e1814 --enable-auto-reload --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=459 --no-v8-untrusted-code-mitigations --shared-files --seatbelt-client=63
+masshiro         40416   0.0  0.5  8975416  88420   ??  S     9:08AM   0:13.74 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/81.0.4044.122/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --field-trial-handle=1718379636,6005351805522046289,11675208128047520950,131072 --enable-features=ParallelDownloading --lang=en-US --metrics-client-id=44581a73-dc07-43e7-95d3-dc755c3e1814 --enable-auto-reload --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=458 --no-v8-untrusted-code-mitigations --shared-files --seatbelt-client=63
+root             40236   0.0  0.0  4426332   6912   ??  Ss    9:02AM   0:00.66 /usr/libexec/sandboxd
+masshiro         40140   0.0  0.4  9042384  74352   ??  S     8:58AM   0:03.94 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/81.0.4044.122/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --field-trial-handle=1718379636,6005351805522046289,11675208128047520950,131072 --enable-features=ParallelDownloading --lang=en-US --metrics-client-id=44581a73-dc07-43e7-95d3-dc755c3e1814 --enable-auto-reload --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=446 --no-v8-untrusted-code-mitigations --shared-files --seatbelt-client=178
+masshiro         40139   0.0  0.5  9126200  85264   ??  S     8:58AM   0:06.64 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/81.0.4044.122/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --field-trial-handle=1718379636,6005351805522046289,11675208128047520950,131072 --enable-features=ParallelDownloading --lang=en-US --metrics-client-id=44581a73-dc07-43e7-95d3-dc755c3e1814 --enable-auto-reload --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=445 --no-v8-untrusted-code-mitigations --shared-files --seatbelt-client=178
+masshiro         39998   0.0  0.6  9110500 103336   ??  S     8:51AM   0:07.93 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/81.0.4044.122/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --field-trial-handle=1718379636,6005351805522046289,11675208128047520950,131072 --enable-features=ParallelDownloading --lang=en-US --metrics-client-id=44581a73-dc07-43e7-95d3-dc755c3e1814 --enable-auto-reload --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=438 --no-v8-untrusted-code-mitigations --shared-files --seatbelt-client=178
+masshiro         39937   0.0  0.4  9049736  60128   ??  S     8:50AM   0:04.56 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/81.0.4044.122/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --field-trial-handle=1718379636,6005351805522046289,11675208128047520950,131072 --enable-features=ParallelDownloading --lang=en-US --metrics-client-id=44581a73-dc07-43e7-95d3-dc755c3e1814 --enable-auto-reload --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=431 --no-v8-untrusted-code-mitigations --shared-files --seatbelt-client=179
+masshiro         39911   0.0  0.4  9057708  62648   ??  S     8:49AM   0:04.45 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/81.0.4044.122/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --field-trial-handle=1718379636,6005351805522046289,11675208128047520950,131072 --enable-features=ParallelDownloading --lang=en-US --metrics-client-id=44581a73-dc07-43e7-95d3-dc755c3e1814 --enable-auto-reload --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=427 --no-v8-untrusted-code-mitigations --shared-files --seatbelt-client=178
+masshiro         39906   0.0  1.4  9192124 229128   ??  S     8:49AM   1:06.77 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/81.0.4044.122/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --field-trial-handle=1718379636,6005351805522046289,11675208128047520950,131072 --enable-features=ParallelDownloading --lang=en-US --metrics-client-id=44581a73-dc07-43e7-95d3-dc755c3e1814 --enable-auto-reload --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=425 --no-v8-untrusted-code-mitigations --shared-files --seatbelt-client=178
+masshiro         39901   0.0  0.3  9047716  51180   ??  S     8:49AM   0:02.58 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/81.0.4044.122/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --field-trial-handle=1718379636,6005351805522046289,11675208128047520950,131072 --enable-features=ParallelDownloading --lang=en-US --metrics-client-id=44581a73-dc07-43e7-95d3-dc755c3e1814 --enable-auto-reload --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=423 --no-v8-untrusted-code-mitigations --shared-files --seatbelt-client=178
+masshiro         39899   0.0  0.5  9051204  80992   ??  S     8:49AM   0:04.69 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/81.0.4044.122/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --field-trial-handle=1718379636,6005351805522046289,11675208128047520950,131072 --enable-features=ParallelDownloading --lang=en-US --metrics-client-id=44581a73-dc07-43e7-95d3-dc755c3e1814 --enable-auto-reload --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=422 --no-v8-untrusted-code-mitigations --shared-files --seatbelt-client=178
+masshiro         39865   0.0  0.0  4409400   4320   ??  Ss    8:48AM   0:00.04 /System/Library/PrivateFrameworks/XprotectFramework.framework/Versions/A/XPCServices/XprotectService.xpc/Contents/MacOS/XprotectService
+masshiro         39842   0.0  0.2  9018260  41232   ??  S     8:47AM   0:01.21 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/81.0.4044.122/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --field-trial-handle=1718379636,6005351805522046289,11675208128047520950,131072 --enable-features=ParallelDownloading --lang=en-US --metrics-client-id=44581a73-dc07-43e7-95d3-dc755c3e1814 --enable-auto-reload --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=415 --no-v8-untrusted-code-mitigations --shared-files --seatbelt-client=178
+masshiro         39826   0.0  0.5  9167508  84332   ??  S     8:46AM   0:11.08 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/81.0.4044.122/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --field-trial-handle=1718379636,6005351805522046289,11675208128047520950,131072 --enable-features=ParallelDownloading --lang=en-US --metrics-client-id=44581a73-dc07-43e7-95d3-dc755c3e1814 --enable-auto-reload --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=414 --no-v8-untrusted-code-mitigations --shared-files --seatbelt-client=178
+root             39555   0.0  0.0  4396108   8080   ??  Ss    8:34AM   0:00.47 /System/Library/CoreServices/backupd.bundle/Contents/Resources/backupd
+masshiro         39548   0.0  0.9  9471292 146196   ??  S     8:34AM   0:54.60 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/81.0.4044.122/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --field-trial-handle=1718379636,6005351805522046289,11675208128047520950,131072 --enable-features=ParallelDownloading --lang=en-US --metrics-client-id=44581a73-dc07-43e7-95d3-dc755c3e1814 --enable-auto-reload --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=399 --no-v8-untrusted-code-mitigations --shared-files --seatbelt-client=215
+masshiro         39292   0.0  0.1  4467400  12156   ??  S     8:23AM   0:00.35 /System/Library/CoreServices/CoreServicesUIAgent.app/Contents/MacOS/CoreServicesUIAgent
+root             39291   0.0  0.0  4868300   6968   ??  Ss    8:23AM   0:00.06 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+masshiro         39290   0.0  0.0  4356932   3352   ??  S     8:23AM   0:00.03 /Applications/VMware Fusion.app/Contents/Library/services/VMware Graphics Service 3 4
+masshiro         39284   0.0  0.0  4306592    200   ??  S     8:23AM   0:02.37 /Applications/VMware Fusion.app/Contents/Library/thnuclnt/thnuclnt -pdir /var/folders/ml/9f2l_lx56pq67_97zr0_tk1m0000gn/T//vmware-masshiro/thnuclnt-39268 -fg
+root             39280   0.0  0.0  4398744   3740   ??  Ss    8:23AM   0:00.09 /usr/sbin/cupsd -l
+masshiro         39278   0.0  0.0  4306592    212   ??  S     8:23AM   0:00.00 /Applications/VMware Fusion.app/Contents/Library/thnuclnt/thnuclnt -pdir /var/folders/ml/9f2l_lx56pq67_97zr0_tk1m0000gn/T//vmware-masshiro/thnuclnt-39268 -fg
+masshiro         39276   0.0  0.0  4306592    296   ??  S     8:23AM   0:02.15 /Applications/VMware Fusion.app/Contents/Library/thnuclnt/thnuclnt -pdir /var/folders/ml/9f2l_lx56pq67_97zr0_tk1m0000gn/T//vmware-masshiro/thnuclnt-39268 -fg
+masshiro         39275   0.0  0.0  4369896   1712   ??  S     8:23AM   0:00.21 /Applications/VMware Fusion.app/Contents/Library/thnuclnt/thnuclnt -pdir /var/folders/ml/9f2l_lx56pq67_97zr0_tk1m0000gn/T//vmware-masshiro/thnuclnt-39268 -fg
+masshiro         39273   0.0  0.0  4298656   1284   ??  S     8:23AM   0:00.77 /Applications/VMware Fusion.app/Contents/Library/thnuclnt/thnuclnt -pdir /var/folders/ml/9f2l_lx56pq67_97zr0_tk1m0000gn/T//vmware-masshiro/thnuclnt-39268 -fg
+root             39272   0.0  0.0  4338192   1992   ??  Ss    8:22AM   0:00.82 /System/Library/Frameworks/PCSC.framework/Versions/A/XPCServices/com.apple.ctkpcscd.xpc/Contents/MacOS/com.apple.ctkpcscd
+root             39271   0.0  0.0  4424604   3292   ??  Ss    8:22AM   0:00.04 /Library/PrivilegedHelperTools/com.vmware.KextControlHelper
+root             39270   0.0  0.0  4424604   3292   ??  Ss    8:22AM   0:00.03 /Library/PrivilegedHelperTools/com.vmware.VMMonHelper
+masshiro         39261   0.0  0.1  4978684  13752   ??  S     8:22AM   0:00.97 /System/Library/CoreServices/NowPlayingTouchUI.app/Contents/MacOS/NowPlayingTouchUI
+masshiro         39260   0.0  0.0  4313300   2648   ??  Ss    8:22AM   0:00.01 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+masshiro         39259   0.0  0.4  5196472  70172   ??  S     8:22AM   0:50.20 /System/Applications/QuickTime Player.app/Contents/MacOS/QuickTime Player -psn_0_2949840
+masshiro         39238   0.0  0.1  4596916  17676   ??  S     8:22AM   0:01.41 /Applications/VMware Fusion.app/Contents/Library/amsrv -D -p 8698
+masshiro         39237   0.0  0.0  4398696   3172   ??  S     8:21AM   0:00.27 /Applications/VMware Fusion.app/Contents/Library/amsrv -D -p 8698
+root             39202   0.0  0.0  4327132   1144   ??  S     8:21AM   0:00.01 /Applications/VMware Fusion.app/Contents/Library/services/VMware USB Arbitrator Service 3 4
+root             39197   0.0  0.0  4383272   2656   ??  Ss    8:21AM   0:00.56 /Applications/VMware Fusion.app/Contents/Library/vmware-usbarbitrator
+masshiro         39195   0.0  0.1  4958172  11224   ??  S     8:21AM   0:00.25 /Applications/VMware Fusion.app/Contents/Library/VMware Fusion Start Menu.app/Contents/MacOS/VMware Fusion Start Menu -psn_0_2921161
+root             39194   0.0  0.0  4326832    160   ??  Ss    8:21AM   0:00.00 /Applications/VMware Fusion.app/Contents/Library/vmnet-dhcpd -s 6 -cf /Library/Preferences/VMware Fusion/vmnet8/dhcpd.conf -lf /var/db/vmware/vmnet-dhcpd-vmnet8.leases -pf /var/run/vmnet-dhcpd-vmnet8.pid vmnet8
+root             39192   0.0  0.0  4281332    144   ??  Ss    8:21AM   0:00.00 /Applications/VMware Fusion.app/Contents/Library/vmnet-netifup -s 6 -d /var/run/vmnet-netif-vmnet8.pid vmnet8 vmnet8
+root             39189   0.0  0.0  4322532   2028   ??  S     8:21AM   0:00.02 /Applications/VMware Fusion.app/Contents/Library/vmnet-natd -s 6 -m /Library/Preferences/VMware Fusion/vmnet8/nat.mac -c /Library/Preferences/VMware Fusion/vmnet8/nat.conf
+root             39186   0.0  0.0  4296024    160   ??  Ss    8:21AM   0:00.00 /Applications/VMware Fusion.app/Contents/Library/vmnet-dhcpd -s 6 -cf /Library/Preferences/VMware Fusion/vmnet1/dhcpd.conf -lf /var/db/vmware/vmnet-dhcpd-vmnet1.leases -pf /var/run/vmnet-dhcpd-vmnet1.pid vmnet1
+root             39184   0.0  0.0  4282356    144   ??  Ss    8:21AM   0:00.00 /Applications/VMware Fusion.app/Contents/Library/vmnet-netifup -s 6 -d /var/run/vmnet-netif-vmnet1.pid vmnet1 vmnet1
+root             39165   0.0  0.0  4372344   3484   ??  S     8:21AM   0:00.02 /Applications/VMware Fusion.app/Contents/Library/vmnet-bridge
+masshiro         39088   0.0  0.0  4287196   1140   ??  S     8:21AM   0:00.01 /Applications/VMware Fusion.app/Contents/Library/services/VMware Fusion Services 3 4
+masshiro         39085   0.0  0.0  4338192   1980   ??  Ss    8:21AM   0:00.88 /System/Library/Frameworks/PCSC.framework/Versions/A/XPCServices/com.apple.ctkpcscd.xpc/Contents/MacOS/com.apple.ctkpcscd
+masshiro         39027   0.0  0.9  9364092 148584   ??  S     8:21AM   0:21.62 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/81.0.4044.122/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --field-trial-handle=1718379636,6005351805522046289,11675208128047520950,131072 --enable-features=ParallelDownloading --lang=en-US --metrics-client-id=44581a73-dc07-43e7-95d3-dc755c3e1814 --enable-auto-reload --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=381 --no-v8-untrusted-code-mitigations --shared-files --seatbelt-client=71
+root             38939   0.0  0.1  4389144  12116   ??  S     8:18AM   0:12.84 /Applications/EasyConnect.app/Contents/Resources/bin/ECAgent --resume
+masshiro         38862   0.0  0.2  5312172  41348   ??  S     8:17AM   0:16.13 /Applications/VLC.app/Contents/MacOS/VLC
+masshiro         38839   0.0  0.1  4440488  13676   ??  S     8:17AM   0:00.49 /usr/libexec/remindd
+_driverkit       38819   0.0  0.0  4807492   1248   ??  Ss    8:17AM   0:00.01 /System/Library/DriverExtensions/AppleUserHIDDrivers.dext/AppleUserHIDDrivers com.apple.driverkit.AppleUserHIDEventDriver.dfrv1 0x100008018
+_driverkit       38818   0.0  0.0  4800304   1440   ??  Ss    8:17AM   0:00.01 /System/Library/DriverExtensions/AppleUserHIDDrivers.dext/AppleUserHIDDrivers com.apple.driverkit.AppleUserUSBHostHIDDevice0 0x100007fec
+_driverkit       38817   0.0  0.0  4807472   1640   ??  Ss    8:17AM   0:00.21 /System/Library/DriverExtensions/AppleUserHIDDrivers.dext/AppleUserHIDDrivers com.apple.driverkit.AppleUserUSBHostHIDDevice0 0x100007fea
+_driverkit       38816   0.0  0.0  4802876   1576   ??  Ss    8:17AM   0:27.47 /System/Library/DriverExtensions/AppleUserHIDDrivers.dext/AppleUserHIDDrivers com.apple.driverkit.AppleUserUSBHostHIDDevice1 0x100007fe8
+_driverkit       38815   0.0  0.0  4807996   1736   ??  Ss    8:17AM   0:01.21 /System/Library/DriverExtensions/AppleUserHIDDrivers.dext/AppleUserHIDDrivers com.apple.driverkit.AppleUserUSBHostHIDDeviceKB 0x100007fe4
+_driverkit       38814   0.0  0.0  4803376   1468   ??  Ss    8:17AM   0:00.01 /System/Library/DriverExtensions/AppleUserHIDDrivers.dext/AppleUserHIDDrivers com.apple.driverkit.AppleTopCase 0x100007fe0
+masshiro         36465   0.0  0.1  8859084  10120   ??  S    10:13PM   0:03.31 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/81.0.4044.122/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=utility --field-trial-handle=1718379636,6005351805522046289,11675208128047520950,131072 --enable-features=ParallelDownloading --lang=en-US --service-sandbox-type=utility --enable-audio-service-sandbox --metrics-client-id=44581a73-dc07-43e7-95d3-dc755c3e1814 --shared-files --seatbelt-client=165
+masshiro         36464   0.0  0.0  5093408   2552   ??  S    10:13PM   0:00.16 /Applications/irreader.app/Contents/Frameworks/irreader Helper.app/Contents/MacOS/irreader Helper --type=utility --lang=en-US --no-sandbox --service-request-channel-token=7A103B0E5759E452C895F9740B723828
+masshiro         36462   0.0  0.0  8472288      8   ??  S    10:13PM   0:00.01 /Users/masshiro/Library/Application Support/TrojanX/privoxy --no-daemon privoxy.config
+masshiro         36457   0.0  0.1  8572876  12796   ??  S    10:13PM   0:05.39 /Users/masshiro/Library/Application Support/TrojanX/trojan -c trojan.json
+masshiro         36450   0.0  0.0  4994728   7512   ??  S    10:13PM   0:01.23 /Applications/TrojanX.app/Contents/MacOS/TrojanX
+root             34846   0.0  0.0  4423316    952   ??  Ss    8:44PM   0:01.57 /usr/sbin/ocspd
+root             33667   0.0  0.1  4433820  14448   ??  Ss    5:27PM   0:09.15 /usr/libexec/PerfPowerServices
+masshiro         31147   0.0  0.0  6015672   5860   ??  Ss    3:36PM   0:01.04 /System/Library/Frameworks/Quartz.framework/Versions/A/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService
+masshiro         31146   0.0  0.1  6094684  12596   ??  Ss    3:36PM   0:03.25 /System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/com.apple.appkit.xpc.openAndSavePanelService.xpc/Contents/MacOS/com.apple.appkit.xpc.openAndSavePanelService
+masshiro         30278   0.0  0.0  4849868      8   ??  Ss    3:03PM   0:00.04 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+masshiro         30235   0.0  0.0  4333780      8   ??  Ss    3:02PM   0:00.01 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+masshiro         30187   0.0  0.0 106169896   3100   ??  Ss    3:01PM   0:00.30 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+masshiro         30130   0.0  0.0  4640944   3836   ??  S     3:00PM   0:30.70 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/81.0.4044.122/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper --type=utility --field-trial-handle=1718379636,6005351805522046289,11675208128047520950,131072 --enable-features=ParallelDownloading --lang=en-US --service-sandbox-type=audio --enable-audio-service-sandbox --message-loop-type-ui --metrics-client-id=44581a73-dc07-43e7-95d3-dc755c3e1814 --shared-files --seatbelt-client=196
+masshiro         30100   0.0  0.3  8957832  51220   ??  S     3:00PM   1:02.51 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/81.0.4044.122/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --field-trial-handle=1718379636,6005351805522046289,11675208128047520950,131072 --enable-features=ParallelDownloading --lang=en-US --metrics-client-id=44581a73-dc07-43e7-95d3-dc755c3e1814 --extension-process --enable-auto-reload --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=8 --no-v8-untrusted-code-mitigations --shared-files --seatbelt-client=102
+masshiro         30099   0.0  0.0  8924136   5064   ??  S     3:00PM   0:05.70 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/81.0.4044.122/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --field-trial-handle=1718379636,6005351805522046289,11675208128047520950,131072 --enable-features=ParallelDownloading --lang=en-US --metrics-client-id=44581a73-dc07-43e7-95d3-dc755c3e1814 --extension-process --enable-auto-reload --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=7 --no-v8-untrusted-code-mitigations --shared-files --seatbelt-client=101
+masshiro         30098   0.0  0.4  8975360  69664   ??  S     3:00PM   0:35.32 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/81.0.4044.122/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --field-trial-handle=1718379636,6005351805522046289,11675208128047520950,131072 --enable-features=ParallelDownloading --lang=en-US --metrics-client-id=44581a73-dc07-43e7-95d3-dc755c3e1814 --extension-process --enable-auto-reload --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files --seatbelt-client=102
+masshiro         30097   0.0  0.1  8948492  22472   ??  S     3:00PM   0:07.31 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/81.0.4044.122/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --field-trial-handle=1718379636,6005351805522046289,11675208128047520950,131072 --enable-features=ParallelDownloading --lang=en-US --metrics-client-id=44581a73-dc07-43e7-95d3-dc755c3e1814 --extension-process --enable-auto-reload --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files --seatbelt-client=96
+masshiro         30094   0.0  0.0  4430180    484   ??  S     3:00PM   0:00.13 /System/Library/Frameworks/ApplicationServices.framework/Frameworks/ATS.framework/Support/atsd
+masshiro         30092   0.0  0.1  8932504  11772   ??  S     3:00PM   0:06.27 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/81.0.4044.122/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --field-trial-handle=1718379636,6005351805522046289,11675208128047520950,131072 --enable-features=ParallelDownloading --lang=en-US --metrics-client-id=44581a73-dc07-43e7-95d3-dc755c3e1814 --extension-process --enable-auto-reload --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=4 --no-v8-untrusted-code-mitigations --shared-files --seatbelt-client=84
+masshiro         30089   0.0  0.0  4436244    860   ??  Ss    3:00PM   0:00.44 /System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VTDecoderXPCService.xpc/Contents/MacOS/VTDecoderXPCService
+masshiro         30087   0.0  0.0  4436736   4900   ??  Ss    3:00PM   0:00.12 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/81.0.4044.122/XPCServices/AlertNotificationService.xpc/Contents/MacOS/AlertNotificationService
+masshiro         30085   0.0  0.2  4676968  38024   ??  S     3:00PM   2:26.15 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/81.0.4044.122/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper --type=utility --field-trial-handle=1718379636,6005351805522046289,11675208128047520950,131072 --enable-features=ParallelDownloading --lang=en-US --service-sandbox-type=network --enable-audio-service-sandbox --metrics-client-id=44581a73-dc07-43e7-95d3-dc755c3e1814 --shared-files --seatbelt-client=34
+masshiro         30084   0.0  1.1  6101584 188184   ??  S     3:00PM  16:29.29 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/81.0.4044.122/Helpers/Google Chrome Helper (GPU).app/Contents/MacOS/Google Chrome Helper (GPU) --type=gpu-process --field-trial-handle=1718379636,6005351805522046289,11675208128047520950,131072 --enable-features=ParallelDownloading --metrics-client-id=44581a73-dc07-43e7-95d3-dc755c3e1814 --gpu-preferences=MAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAABgAAAAAAAQAAAAAAAAAAAAAAAAAAAA6AAAABwAAADgAAAAAAAAAOgAAAAAAAAA8AAAAAAAAAD4AAAAAAAAAAABAAAAAAAACAEAAAAAAAAQAQAAAAAAABgBAAAAAAAAIAEAAAAAAAAoAQAAAAAAADABAAAAAAAAOAEAAAAAAABAAQAAAAAAAEgBAAAAAAAAUAEAAAAAAABYAQAAAAAAAGABAAAAAAAAaAEAAAAAAABwAQAAAAAAAHgBAAAAAAAAgAEAAAAAAACIAQAAAAAAAJABAAAAAAAAmAEAAAAAAACgAQAAAAAAAKgBAAAAAAAAsAEAAAAAAAC4AQAAAAAAABAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAGAAAAEAAAAAAAAAAAAAAABwAAABAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAAAAAAAKAAAAEAAAAAAAAAAAAAAACwAAABAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAAEAAAAAAAAAEAAAAAAAAAABAAAABgAAABAAAAAAAAAAAQAAAAcAAAAQAAAAAAAAAAEAAAAIAAAAEAAAAAAAAAABAAAACgAAABAAAAAAAAAAAQAAAAsAAAAQAAAAAAAAAAEAAAANAAAAEAAAAAAAAAAEAAAAAAAAABAAAAAAAAAABAAAAAYAAAAQAAAAAAAAAAQAAAAHAAAAEAAAAAAAAAAEAAAACAAAABAAAAAAAAAABAAAAAoAAAAQAAAAAAAAAAQAAAALAAAAEAAAAAAAAAAEAAAADQAAABAAAAAAAAAABgAAAAAAAAAQAAAAAAAAAAYAAAAGAAAAEAAAAAAAAAAGAAAABwAAABAAAAAAAAAABgAAAAgAAAAQAAAAAAAAAAYAAAAKAAAAEAAAAAAAAAAGAAAACwAAABAAAAAAAAAABgAAAA0AAAA= --shared-files
+masshiro         30078   0.0  0.0  4344016    620   ??  S     3:00PM   0:00.03 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/81.0.4044.122/Helpers/chrome_crashpad_handler --monitor-self-annotation=ptype=crashpad-handler --database=/Users/masshiro/Library/Application Support/Google/Chrome/Crashpad --metrics-dir=/Users/masshiro/Library/Application Support/Google/Chrome --url=https://clients2.google.com/cr/report --annotation=channel= --annotation=plat=OS X --annotation=prod=Chrome_Mac --annotation=ver=81.0.4044.122 --handshake-fd=7
+masshiro         25378   0.0  0.3  8419748  43932   ??  S    Mon10AM   1:07.43 /Applications/Microsoft OneNote.app/Contents/MacOS/Microsoft OneNote
+masshiro         18760   0.0  0.0  4867928      8   ??  Ss   Sun05PM   0:00.30 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+masshiro         18759   0.0  0.0  4943004      8   ??  Ss   Sun05PM   0:04.17 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+masshiro         18757   0.0  0.2  5260912  32192   ??  S    Sun05PM   1:24.95 /Applications/Microsoft To Do.app/Contents/MacOS/Microsoft To Do
+masshiro         15807   0.0  0.0  4380840      8   ??  Ss   Sun03PM   0:00.09 /System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/XPCServices/com.apple.siri.ClientFlow.ClientScripter.xpc/Contents/MacOS/com.apple.siri.ClientFlow.ClientScripter
+_windowserver    15610   0.0  0.0  4840652      8   ??  Ss   Sun02PM   0:00.06 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+_windowserver    15609   0.0  0.0  4930368      8   ??  Ss   Sun02PM   0:00.44 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+masshiro         15530   0.0  0.0  4312536      8   ??  Ss   Sun02PM   0:00.01 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+masshiro         13594   0.0  0.0  4453244      8   ??  S    Sun11AM   0:00.08 /System/Library/PrivateFrameworks/CoreSuggestions.framework/Versions/A/Support/reversetemplated
+masshiro         13582   0.0  0.0  4312572      8   ??  S    Sun11AM   0:00.01 /System/Library/PrivateFrameworks/ToneLibrary.framework/Versions/A/XPCServices/com.apple.tonelibraryd.xpc/Contents/MacOS/com.apple.tonelibraryd
+root             11943   0.0  0.0  4324656      8   ??  Ss   Sun08AM   0:00.02 /usr/libexec/applessdstatistics
+root             11702   0.0  0.0  4314652      8   ??  Ss   Sun08AM   0:00.02 /usr/libexec/tailspind
+masshiro         11432   0.0  0.0  4847820      8   ??  Ss   Sun12AM   0:00.05 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+masshiro         10538   0.0  0.0  4322516      8   ??  Ss   Sun12AM   0:00.01 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+masshiro         10536   0.0  0.2  6487532  37072   ??  Ss   Sun12AM   0:05.84 /System/Library/PrivateFrameworks/Lookup.framework/Versions/A/XPCServices/LookupViewService.xpc/Contents/MacOS/LookupViewService
+masshiro         10493   0.0  0.0  5997420   3748   ??  Ss   Sun12AM   0:02.12 /System/Library/Frameworks/Quartz.framework/Versions/A/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService
+masshiro         10492   0.0  0.1  6109316  11140   ??  Ss   Sun12AM   0:06.24 /System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/com.apple.appkit.xpc.openAndSavePanelService.xpc/Contents/MacOS/com.apple.appkit.xpc.openAndSavePanelService
+root             10280   0.0  0.0  4305376      8   ??  SNs  Sun12AM   0:00.00 /usr/libexec/periodic-wrapper weekly
+masshiro         10264   0.0  0.0  4430416    808   ??  S    Sat11PM   0:00.12 /System/Library/PrivateFrameworks/AMPLibrary.framework/Versions/A/Support/AMPArtworkAgent --launchd
+masshiro         10263   0.0  0.0  4424008   1620   ??  S    Sat11PM   0:00.15 /System/Library/PrivateFrameworks/BookKit.framework/Versions/A/XPCServices/com.apple.BKAgentService.xpc/Contents/MacOS/com.apple.BKAgentService
+masshiro         10262   0.0  0.0  4429884   1568   ??  S    Sat11PM   0:00.51 /System/Library/PrivateFrameworks/PodcastServices.framework/XPCServices/PodcastContentService.xpc/Contents/MacOS/PodcastContentService
+masshiro         10261   0.0  0.1  4450920  12976   ??  Ss   Sat11PM   0:00.63 /System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/XPCServices/media-indexer.xpc/Contents/MacOS/media-indexer
+root             10244   0.0  0.0  4424864    792   ??  Ss   Sat11PM   0:00.09 /System/Library/PrivateFrameworks/Noticeboard.framework/Versions/A/Resources/nbstated
+root             10240   0.0  0.0  4423432   1196   ??  Ss   Sat11PM   0:00.10 /usr/libexec/microstackshot
+masshiro         10239   0.0  0.0  4466748   6584   ??  S    Sat11PM   0:03.35 /System/Library/PrivateFrameworks/Noticeboard.framework/Versions/A/Resources/nbagent.app/Contents/MacOS/nbagent
+root             10173   0.0  0.0  4310496     76   ??  SNs  Sat11PM   0:00.01 /usr/libexec/periodic-wrapper daily
+masshiro         10135   0.0  0.0  4427876   3028   ??  Ss   Sat11PM   0:00.78 /System/Library/PrivateFrameworks/Categories.framework/Versions/A/XPCServices/CategoriesService.xpc/Contents/MacOS/CategoriesService
+_datadetectors    9563   0.0  0.0  4323816      8   ??  Ss   Sat08PM   0:00.09 /usr/libexec/DataDetectorsSourceAccess
+_spotlight        9562   0.0  0.0  4388948    440   ??  S    Sat08PM   0:00.14 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker -s mdworker-sizing -c MDSSizingWorker -m com.apple.mdworker.sizing
+masshiro          9561   0.0  0.0  4425624    440   ??  S    Sat08PM   0:12.39 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker -s mdworker-sizing -c MDSSizingWorker -m com.apple.mdworker.sizing
+root              9526   0.0  0.0  4425028      8   ??  Ss   Sat07PM   0:00.11 /usr/bin/sysdiagnose
+masshiro          9525   0.0  0.0  4425076   1920   ??  S    Sat07PM   0:00.20 /usr/libexec/silhouette
+masshiro          9086   0.0  0.0  4463452   6588   ??  S    Sat05PM   0:04.67 /System/Library/CoreServices/PowerChime.app/Contents/MacOS/PowerChime
+masshiro          8144   0.0  0.1  4471608  12616   ??  S    Sat04PM   0:04.94 /usr/libexec/studentd
+root              8137   0.0  0.0  4425896    440   ??  Ss   Sat04PM   0:00.10 /System/Library/Frameworks/SystemExtensions.framework/Versions/A/Helpers/sysextd
+masshiro          8136   0.0  0.0  5013476   5648   ??  S    Sat04PM   0:02.47 /System/Library/PrivateFrameworks/UniversalAccess.framework/Versions/A/Resources/universalAccessAuthWarn.app/Contents/MacOS/universalAccessAuthWarn launchd -s
+masshiro          7762   0.0  0.0  4429496    928   ??  Ss   Sat04PM   0:00.88 /System/Library/PrivateFrameworks/WeatherKit.framework/Versions/A/XPCServices/com.apple.WeatherKitService.xpc/Contents/MacOS/com.apple.WeatherKitService
+masshiro          7761   0.0  0.0  4395076    680   ??  Ss   Sat04PM   0:00.10 /System/Library/CoreServices/NotificationCenter.app/Contents/XPCServices/com.apple.notificationcenterui.WeatherSummary.xpc/Contents/MacOS/com.apple.notificationcenterui.WeatherSummary
+masshiro          5884   0.0  0.0  4345352    852   ??  S    Sat02PM   0:00.05 /System/Library/Frameworks/MediaAccessibility.framework/Versions/A/XPCServices/com.apple.accessibility.mediaaccessibilityd.xpc/Contents/MacOS/com.apple.accessibility.mediaaccessibilityd
+masshiro          5043   0.0  0.0  4877808      8   ??  Ss   Sat08AM   0:00.27 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+masshiro          5039   0.0  0.0  4354120    108   ??  S    Sat08AM   0:00.03 /System/Library/Frameworks/ColorSync.framework/Support/colorsync.useragent
+masshiro          5038   0.0  0.3  5101352  43280   ??  S    Sat08AM   1:31.42 /Applications/CopyLess 2.app/Contents/MacOS/CopyLess 2
+masshiro          4960   0.0  0.0  4427148   2784   ??  S    Sat08AM   0:00.24 /System/Library/PrivateFrameworks/ClassKit.framework/Versions/A/progressd
+root              4959   0.0  0.0  4435324   1060   ??  Ss   Sat08AM   0:02.06 /System/Library/PrivateFrameworks/AppStoreDaemon.framework/Support/appstored
+masshiro          4955   0.0  0.0  4425040   4856   ??  S    Sat08AM   0:00.34 /System/Library/PrivateFrameworks/CloudPhotoServices.framework/Versions/A/XPCServices/com.apple.CloudPhotosConfiguration.xpc/Contents/MacOS/com.apple.CloudPhotosConfiguration
+masshiro          4812   0.0  0.2  6523280  34668   ??  S    Sat08AM   0:18.83 /System/Applications/Stickies.app/Contents/MacOS/Stickies
+masshiro          4736   0.0  0.0  4371040   1972   ??  S    Sat08AM   0:00.07 /System/Library/CoreServices/EscrowSecurityAlert.app/Contents/MacOS/EscrowSecurityAlert
+masshiro          4633   0.0  0.0  4957972   5876   ??  S    Sat08AM   0:05.24 /System/Library/CoreServices/OSDUIHelper.app/Contents/MacOS/OSDUIHelper
+masshiro          4601   0.0  0.0  4423844   1884   ??  S    Sat08AM   0:00.19 /System/Library/PrivateFrameworks/IMDPersistence.framework/IMAutomaticHistoryDeletionAgent.app/Contents/MacOS/IMAutomaticHistoryDeletionAgent
+_assetcache       4597   0.0  0.0  4428720   2108   ??  Ss   Sat08AM   0:01.04 /System/Library/PrivateFrameworks/AssetCacheServices.framework/Versions/A/XPCServices/AssetCacheLocatorService.xpc/Contents/MacOS/AssetCacheLocatorService -d
+_fpsd             4596   0.0  0.0  4398440    904   ??  Ss   Sat08AM   0:01.28 /System/Library/PrivateFrameworks/CoreLSKD.framework/Versions/A/lskdd
+root              4497   0.0  0.0  4293868      8   ??  Ss   Sat04AM   0:00.01 /usr/sbin/aslmanager -s /var/log/eventmonitor
+masshiro          3839   0.0  0.0  4424980   3232   ??  S    Fri10PM   0:00.60 /System/Library/PrivateFrameworks/UsageTracking.framework/Versions/A/UsageTrackingAgent
+masshiro          3673   0.0  0.0  4429336    980   ??  Ss   Fri10PM   0:00.81 /System/Library/PrivateFrameworks/SafariShared.framework/Versions/A/XPCServices/com.apple.Safari.SearchHelper.xpc/Contents/MacOS/com.apple.Safari.SearchHelper
+masshiro          3622   0.0  0.0  6015292   4304   ??  Ss   Fri10PM   0:02.90 /System/Library/Frameworks/Quartz.framework/Versions/A/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService
+masshiro          3621   0.0  0.1  6094560  11592   ??  Ss   Fri10PM   0:07.39 /System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/com.apple.appkit.xpc.openAndSavePanelService.xpc/Contents/MacOS/com.apple.appkit.xpc.openAndSavePanelService
+masshiro          3542   0.0  0.1  4449704  17012   ??  S    Fri10PM   0:31.80 /System/Library/PrivateFrameworks/SafariSafeBrowsing.framework/com.apple.Safari.SafeBrowsing.Service
+masshiro          3541   0.0  0.0  4396960      8   ??  Ss   Fri10PM   0:00.12 /System/Library/Frameworks/ImageIO.framework/Versions/A/XPCServices/ImageIOXPCService.xpc/Contents/MacOS/ImageIOXPCService
+masshiro          3540   0.0  0.0  4401156   1044   ??  S    Fri10PM   0:15.78 /Library/Apple/System/Library/CoreServices/SafariSupport.bundle/Contents/MacOS/SafariCloudHistoryPushAgent
+masshiro          3535   0.0  0.0  4371492      8   ??  S    Fri10PM   0:00.05 /Library/Apple/System/Library/CoreServices/SafariSupport.bundle/Contents/MacOS/SafariLaunchAgent
+masshiro          3532   0.0  0.0  5508572   2740   ??  Ss   Fri10PM   0:05.25 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.Networking.xpc/Contents/MacOS/com.apple.WebKit.Networking
+masshiro          3529   0.0  0.0  4428100   1604   ??  S    Fri10PM   0:00.38 /System/Library/PrivateFrameworks/SafariShared.framework/Versions/A/XPCServices/com.apple.Safari.History.xpc/Contents/MacOS/com.apple.Safari.History
+masshiro          3528   0.0  0.2  6386824  27492   ??  S    Fri10PM   0:49.52 /Applications/Safari.app/Contents/MacOS/Safari
+masshiro          2963   0.0  0.1  4448044  12924   ??  S    Fri10PM   0:13.24 /System/Library/PrivateFrameworks/PhotoAnalysis.framework/Versions/A/Support/photoanalysisd
+masshiro          2961   0.0  0.0  4458708   3800   ??  S    Fri10PM   0:01.65 /System/Library/PrivateFrameworks/PhotoLibraryServices.framework/Versions/A/Support/photolibraryd
+root              2955   0.0  0.0  4379372   1744   ??  Ss   Fri10PM   0:00.04 /usr/libexec/tzd
+masshiro          2954   0.0  0.0  4425868   1536   ??  S    Fri10PM   0:00.37 /usr/libexec/transparencyd
+_applepay         2903   0.0  0.0  4424748   1192   ??  Ss   Fri10PM   0:00.30 /usr/libexec/seld
+masshiro          2901   0.0  0.0  4439204   4100   ??  S    Fri10PM   0:01.41 /System/Library/PrivateFrameworks/PassKitCore.framework/passd
+masshiro          2889   0.0  0.0  4425992   3288   ??  S    Fri10PM   0:01.06 cloudphotod
+masshiro          2888   0.0  0.0  4336236    864   ??  S    Fri10PM   0:00.03 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/XPCServices/com.apple.DictionaryServiceHelper.xpc/Contents/MacOS/com.apple.DictionaryServiceHelper
+masshiro          2831   0.0  0.1  5529512  11804   ??  S    Fri10PM   0:12.20 /System/Library/PrivateFrameworks/AppStoreDaemon.framework/Support/appstoreagent
+masshiro          2830   0.0  0.0  4386908    848   ??  S    Fri10PM   0:00.15 /System/Library/PrivateFrameworks/DeviceCheckInternal.framework/devicecheckd
+_netbios          2820   0.0  0.0  4397460    720   ??  SNs  Fri10PM   0:00.46 /usr/sbin/netbiosd
+root              2790   0.0  0.0  4388956    240   ??  Ss   Fri10PM   0:00.05 /usr/libexec/rapportd --system
+masshiro          2562   0.0  0.0  4427332   2304   ??  S    Fri11AM   0:00.90 /System/Library/PrivateFrameworks/DistributedEvaluation.framework/Versions/A/XPCServices/com.apple.siri-distributed-evaluation.xpc/Contents/MacOS/com.apple.siri-distributed-evaluation
+masshiro          2538   0.0  0.0  4397052    108   ??  S    Fri10AM   0:00.11 /usr/libexec/USBAgent
+masshiro          2520   0.0  0.0  4996668   7972   ??  S    Fri09AM   0:03.43 /System/Library/Frameworks/LocalAuthentication.framework/Support/coreautha.bundle/Contents/MacOS/coreautha
+masshiro          2459   0.0  0.0  4457008   5040   ??  Ss   Fri09AM   0:03.74 /System/Library/PrivateFrameworks/RemoteViewServices.framework/XPCServices/com.apple.security.pboxd.xpc/Contents/MacOS/com.apple.security.pboxd
+masshiro          2455   0.0  0.0  4886076      8   ??  Ss   Fri09AM   0:00.22 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+masshiro          2453   0.0  0.0  6014436   4264   ??  Ss   Fri09AM   0:02.97 /System/Library/Frameworks/Quartz.framework/Versions/A/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService
+masshiro          2452   0.0  0.1  6266768  13152   ??  Ss   Fri09AM   0:10.61 /System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/com.apple.appkit.xpc.openAndSavePanelService.xpc/Contents/MacOS/com.apple.appkit.xpc.openAndSavePanelService
+masshiro          2276   0.0  0.0  4866620      8   ??  Ss   Fri08AM   0:00.32 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+root              2036   0.0  0.0  4430104   1324   ??  Ss   Fri08AM   0:00.99 /usr/libexec/dprivacyd
+root              1583   0.0  0.0  4429696   3176   ??  Ss   Fri08AM   0:00.69 /System/Library/PrivateFrameworks/PerformanceAnalysis.framework/Versions/A/XPCServices/com.apple.PerformanceAnalysis.animationperfd.xpc/Contents/MacOS/com.apple.PerformanceAnalysis.animationperfd
+masshiro          1521   0.0  0.0  4435576   3604   ??  Ss   Fri08AM   0:01.05 /System/Library/PrivateFrameworks/FMClient.framework/Versions/A/XPCServices/FMIPClientXPCService.xpc/Contents/MacOS/FMIPClientXPCService
+masshiro          1516   0.0  0.0  4424320   2652   ??  S    Fri08AM   0:00.54 /usr/libexec/siriknowledged
+masshiro          1507   0.0  0.1  4454256  22964   ??  S    Fri08AM   1:10.67 /System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/Support/assistant_service
+masshiro          1506   0.0  0.1  4490740  11488   ??  Ss   Fri08AM   0:08.53 /System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/XPCServices/com.apple.siri.embeddedspeech.xpc/Contents/MacOS/com.apple.siri.embeddedspeech
+masshiro          1505   0.0  0.0  4323800      8   ??  Ss   Fri08AM   0:00.02 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+_spotlight        1480   0.0  0.0  4396688    428   ??  S    Fri08AM   0:00.14 /usr/sbin/distnoted agent
+masshiro          1373   0.0  0.0  4427964   2508   ??  S    Fri08AM   0:00.57 /System/Library/CoreServices/ScopedBookmarkAgent
+masshiro          1372   0.0  0.0  4463868   5692   ??  S    Fri08AM   0:03.10 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storeuid.app/Contents/MacOS/storeuid
+masshiro          1370   0.0  0.0  4363824      8   ??  S    Fri08AM   0:00.07 /System/Library/Frameworks/ApplicationServices.framework/Frameworks/PrintCore.framework/Versions/A/printtool
+masshiro          1350   0.0  0.0  4425348   3100   ??  S    Fri08AM   0:00.43 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdwrite
+masshiro          1339   0.0  0.0  4429296   5520   ??  S    Fri08AM   0:16.99 /Library/Apple/System/Library/CoreServices/SafariSupport.bundle/Contents/MacOS/SafariBookmarksSyncAgent
+root              1323   0.0  0.0  4434876   2836   ??  Ss   Fri08AM   0:01.53 /usr/libexec/mobileactivationd
+masshiro          1318   0.0  0.0  4369020      8   ??  S    Fri08AM   0:00.02 /System/Library/CoreServices/ReportCrash agent
+root              1312   0.0  0.0  4426344    440   ??  S    Fri08AM   0:00.12 /usr/libexec/secinitd
+root              1311   0.0  0.1  4438832   9152   ??  S    Fri08AM   0:07.64 /System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod
+masshiro          1295   0.0  0.0  5143280   5484   ??  S    Fri08AM   0:06.81 /System/Library/Frameworks/CoreSpotlight.framework/CoreSpotlightService
+masshiro          1275   0.0  0.0  4313560      8   ??  Ss   Fri08AM   0:00.01 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+masshiro          1274   0.0  0.0  4468812   1880   ??  S    Fri08AM   0:01.30 /System/Library/Frameworks/ApplicationServices.framework/Frameworks/SpeechSynthesis.framework/Resources/com.apple.speech.speechsynthesisd
+masshiro          1273   0.0  0.0  5998728   5160   ??  Ss   Fri08AM   0:08.44 /System/Library/CoreServices/Siri.app/Contents/XPCServices/SiriNCService.xpc/Contents/MacOS/SiriNCService
+root              1244   0.0  0.0  4387452      8   ??  Ss   Fri08AM   0:00.07 /System/Library/CoreServices/ReportCrash daemon
+masshiro          1238   0.0  0.0  4341188      8   ??  S    Fri08AM   0:00.01 /System/Library/PrivateFrameworks/KerberosHelper/Helpers/DiskUnmountWatcher
+_spotlight         725   0.0  0.0  4427496   3516   ??  S    Fri08AM   0:03.25 /usr/libexec/trustd --agent
+root               703   0.0  0.0  4396040    676   ??  Ss   Fri08AM   0:00.20 /System/Library/CoreServices/Software Update.app/Contents/Resources/suhelperd
+_softwareupdate    702   0.0  0.0  5579960   3376   ??  Ss   Fri08AM   0:54.37 /System/Library/CoreServices/Software Update.app/Contents/Resources/softwareupdated
+masshiro           701   0.0  0.0  4468000   5072   ??  S    Fri08AM   0:02.96 /System/Library/PrivateFrameworks/SoftwareUpdate.framework/Resources/SoftwareUpdateNotificationManager.app/Contents/MacOS/SoftwareUpdateNotificationManager
+root               698   0.0  0.0  4436904   5348   ??  Ss   Fri08AM   0:02.61 /usr/libexec/rtcreportingd
+root               696   0.0  0.0  4395744   1628   ??  Ss   Fri08AM   0:00.20 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/CAReportingService.xpc/Contents/MacOS/CAReportingService
+masshiro           694   0.0  0.0  4958848   5708   ??  S    Fri08AM   0:08.18 /System/Library/CoreServices/LocationMenu.app/Contents/MacOS/LocationMenu
+masshiro           688   0.0  0.0  4875664      8   ??  Ss   Fri08AM   0:00.10 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+root               687   0.0  0.0  4397188    784   ??  Ss   Fri08AM   0:00.13 /System/Library/CoreServices/iconservicesagent runAsRoot
+masshiro           686   0.0  0.0  5604496   4780   ??  S    Fri08AM   0:01.96 /Applications/irreader.app/Contents/Frameworks/irreader Helper.app/Contents/MacOS/irreader Helper --type=renderer --no-sandbox --service-pipe-token=DCC96DD30D55A48722716894893969D8 --lang=en-US --app-path=/Applications/irreader.app/Contents/Resources/app.asar --node-integration=false --webview-tag=true --no-sandbox --preload=/Applications/irreader.app/Contents/Resources/app.asar/index_preload.js --guest-instance-id=1 --enable-blink-features --disable-blink-features --hidden-page --context-id=2 --enable-pinch --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,34037;0,12,34037;0,13,34037;0,14,3553;0,15,3553;0,16,3553;0,17,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,34037;1,12,34037;1,13,34037;1,14,3553;1,15,3553;1,16,3553;1,17,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,34037;2,12,34037;2,13,34037;2,14,3553;2,15,3553;2,16,3553;2,17,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,34037;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,34037;3,14,34037;3,15,3553;3,16,34037;3,17,34037;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,34037;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,34037;4,14,34037;4,15,3553;4,16,34037;4,17,34037 --enable-gpu-async-worker-context --service-request-channel-token=DCC96DD30D55A48722716894893969D8 --renderer-client-id=11
+masshiro           684   0.0  0.0  4425600   3676   ??  S    Fri08AM   0:00.34 /System/Library/Frameworks/AudioToolbox.framework/AudioComponentRegistrar
+masshiro           681   0.0  0.0  4338816    504   ??  S    Fri08AM   0:00.03 /usr/libexec/spindump_agent
+root               680   0.0  0.0  4451700   6988   ??  Ss   Fri08AM   0:04.27 /usr/sbin/spindump
+masshiro           666   0.0  0.0  5326504   5396   ??  S    Fri08AM   0:22.90 /Applications/irreader.app/Contents/Frameworks/irreader Helper.app/Contents/MacOS/irreader Helper --type=renderer --no-sandbox --service-pipe-token=FEB56266FD4F00F005605EF675351BA6 --lang=en-US --app-path=/Applications/irreader.app/Contents/Resources/app.asar --node-integration=true --webview-tag=true --no-sandbox --context-id=2 --enable-pinch --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,34037;0,12,34037;0,13,34037;0,14,3553;0,15,3553;0,16,3553;0,17,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,34037;1,12,34037;1,13,34037;1,14,3553;1,15,3553;1,16,3553;1,17,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,34037;2,12,34037;2,13,34037;2,14,3553;2,15,3553;2,16,3553;2,17,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,34037;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,34037;3,14,34037;3,15,3553;3,16,34037;3,17,34037;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,34037;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,34037;4,14,34037;4,15,3553;4,16,34037;4,17,34037 --enable-gpu-async-worker-context --service-request-channel-token=FEB56266FD4F00F005605EF675351BA6 --renderer-client-id=8
+masshiro           662   0.0  0.2  5322092  38908   ??  S    Fri08AM   0:06.49 /Applications/irreader.app/Contents/Frameworks/irreader Helper.app/Contents/MacOS/irreader Helper --type=renderer --no-sandbox --service-pipe-token=496E28B5D0D9B52302B236B23D66813B --lang=en-US --app-path=/Applications/irreader.app/Contents/Resources/app.asar --node-integration=true --webview-tag=true --no-sandbox --context-id=2 --enable-pinch --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,34037;0,12,34037;0,13,34037;0,14,3553;0,15,3553;0,16,3553;0,17,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,34037;1,12,34037;1,13,34037;1,14,3553;1,15,3553;1,16,3553;1,17,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,34037;2,12,34037;2,13,34037;2,14,3553;2,15,3553;2,16,3553;2,17,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,34037;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,34037;3,14,34037;3,15,3553;3,16,34037;3,17,34037;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,34037;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,34037;4,14,34037;4,15,3553;4,16,34037;4,17,34037 --enable-gpu-async-worker-context --service-request-channel-token=496E28B5D0D9B52302B236B23D66813B --renderer-client-id=6
+masshiro           661   0.0  0.1  5353560  19496   ??  S    Fri08AM   0:38.76 /Applications/irreader.app/Contents/Frameworks/irreader Helper.app/Contents/MacOS/irreader Helper --type=renderer --no-sandbox --service-pipe-token=ED91FB171AB3C1FE0C99039E9D80870C --lang=en-US --app-path=/Applications/irreader.app/Contents/Resources/app.asar --node-integration=true --webview-tag=true --no-sandbox --context-id=2 --enable-pinch --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,34037;0,12,34037;0,13,34037;0,14,3553;0,15,3553;0,16,3553;0,17,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,34037;1,12,34037;1,13,34037;1,14,3553;1,15,3553;1,16,3553;1,17,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,34037;2,12,34037;2,13,34037;2,14,3553;2,15,3553;2,16,3553;2,17,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,34037;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,34037;3,14,34037;3,15,3553;3,16,34037;3,17,34037;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,34037;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,34037;4,14,34037;4,15,3553;4,16,34037;4,17,34037 --enable-gpu-async-worker-context --service-request-channel-token=ED91FB171AB3C1FE0C99039E9D80870C --renderer-client-id=4
+root               660   0.0  0.0  4427916   1480   ??  Ss   Fri08AM   0:15.40 /Library/Application Support/Lemon/LemonDaemon loadBySystem
+masshiro           654   0.0  0.0  4707768   3224   ??  S    Fri08AM   0:07.27 /Applications/irreader.app/Contents/Frameworks/irreader Helper.app/Contents/MacOS/irreader Helper --type=gpu-process --no-sandbox --supports-dual-gpus=true --gpu-driver-bug-workarounds=0,1,12,27,30,43,47,56,62,70,73,74,75,76,83,84,86,94,95,96,100,103 --disable-gl-extensions=GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent --gpu-vendor-id=0x1002 --gpu-device-id=0x67ef --gpu-driver-vendor --gpu-driver-version --gpu-driver-date --gpu-secondary-vendor-ids=0x8086 --gpu-secondary-device-ids=0x3e9b --gpu-active-vendor-id=0x8086 --gpu-active-device-id=0x3e9b --service-request-channel-token=D3671EF6350D3BC2BFE00AB58F7B5219
+masshiro           636   0.0  0.0  4396732   1348   ??  S    Fri08AM   0:00.21 /usr/libexec/findmydevice-user-agent
+masshiro           629   0.0  0.0  4431168   5452   ??  S    Fri08AM   0:04.00 /System/Library/PrivateFrameworks/FileProvider.framework/Support/fileproviderd
+masshiro           628   0.0  0.0  4426720      8   ??  S    Fri08AM   0:00.09 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storedownloadd
+root               627   0.0  0.2  4443828  28368   ??  Ss   Fri08AM   0:08.13 /System/Library/PrivateFrameworks/PackageKit.framework/Resources/system_installd
+root               626   0.0  0.0  4398148    392   ??  Ss   Fri08AM   0:00.82 /System/Library/PrivateFrameworks/CoreSymbolication.framework/coresymbolicationd
+root               625   0.0  0.0  4444972   1364   ??  Ss   Fri08AM   0:07.00 /System/Library/PrivateFrameworks/PackageKit.framework/Resources/installd
+masshiro           623   0.0  0.0  4397460    776   ??  S    Fri08AM   0:00.21 /usr/libexec/replayd
+root               622   0.0  0.0  4395500      8   ??  Ss   Fri08AM   0:00.04 /System/Library/PrivateFrameworks/CacheDelete.framework/deleted_helper
+_gamecontrollerd   606   0.0  0.0  4395696   1964   ??  Ss   Fri08AM   0:04.36 /usr/libexec/gamecontrollerd
+masshiro           605   0.0  0.1  5005104   8760   ??  S    Fri08AM   1:09.98 /Applications/Magnet.app/Contents/MacOS/Magnet
+masshiro           592   0.0  0.0  4496752   2560   ??  S    Fri08AM   0:00.64 /System/Library/PrivateFrameworks/ContextKit.framework/Versions/A/XPCServices/ContextService.xpc/Contents/MacOS/ContextService
+masshiro           589   0.0  0.0  4433384   4276   ??  S    Fri08AM   0:24.94 /System/Library/PrivateFrameworks/CacheDelete.framework/deleted
+masshiro           588   0.0  0.0  4424564   3092   ??  S    Fri08AM   0:00.67 /System/Library/PrivateFrameworks/CoreRecents.framework/Versions/A/Support/recentsd
+masshiro           587   0.0  0.0  4428428   3140   ??  S    Fri08AM   0:00.52 /usr/libexec/keyboardservicesd
+masshiro           586   0.0  0.0  4322344      8   ??  S    Fri08AM   0:00.01 /System/Library/PrivateFrameworks/CharacterPicker.framework/Versions/A/XPCServices/com.apple.CharacterPicker.FileService.xpc/Contents/MacOS/com.apple.CharacterPicker.FileService
+masshiro           585   0.0  0.3  4992660  51780   ??  S    Fri08AM   0:11.87 /System/Library/Services/AppleSpell.service/Contents/MacOS/AppleSpell
+masshiro           584   0.0  0.1  6234432   9500   ??  Ss   Fri08AM   0:13.26 /System/Library/Input Methods/EmojiFunctionRowIM.app/Contents/PlugIns/EmojiFunctionRowIM_Extension.appex/Contents/MacOS/EmojiFunctionRowIM_Extension
+masshiro           583   0.0  0.3  6576776  54868   ??  Ss   Fri08AM   2:14.18 /System/Library/Input Methods/SCIM.app/Contents/PlugIns/SCIM_Extension.appex/Contents/MacOS/SCIM_Extension
+masshiro           582   0.0  0.0  5999936   5488   ??  Ss   Fri08AM   0:04.74 /System/Library/Input Methods/PressAndHold.app/Contents/PlugIns/PAH_Extension.appex/Contents/MacOS/PAH_Extension
+root               580   0.0  0.0  4423748    972   ??  Ss   Fri08AM   0:02.90 /System/Library/PrivateFrameworks/AmbientDisplay.framework/Versions/A/XPCServices/com.apple.AmbientDisplayAgent.xpc/Contents/MacOS/com.apple.AmbientDisplayAgent
+root               574   0.0  0.0  4426940   2204   ??  Ss   Fri08AM   0:28.92 /System/Library/PrivateFrameworks/StorageKit.framework/Resources/storagekitd
+masshiro           572   0.0  0.0  4395560   1752   ??  S    Fri08AM   0:01.62 /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/XPCServices/com.apple.hiservices-xpcservice.xpc/Contents/MacOS/com.apple.hiservices-xpcservice
+root               571   0.0  0.0  4428076   1336   ??  Ss   Fri08AM   0:01.02 /System/Library/PrivateFrameworks/AuthKit.framework/Versions/A/Support/akd
+masshiro           570   0.0  0.4  5405964  74216   ??  S    Fri08AM   0:56.65 /Applications/Macs Fan Control.app/Contents/MacOS/Macs Fan Control
+masshiro           560   0.0  0.1  5081832  22468   ??  S    Fri08AM   5:20.33 /Applications/OneDrive.app/Contents/MacOS/OneDrive
+masshiro           539   0.0  0.0  4371604      8   ??  S    Fri08AM   0:00.03 /usr/libexec/loginitemregisterd
+root               538   0.0  0.0  4344592   1348   ??  Ss   Fri08AM   0:00.06 /usr/libexec/taskgated
+masshiro           536   0.0  0.0  4424008   1164   ??  S    Fri08AM   0:00.28 /System/Library/PrivateFrameworks/CommunicationsFilter.framework/CMFSyncAgent
+masshiro           525   0.0  0.0  4895708   1772   ??  S    Fri08AM   0:06.41 /usr/libexec/SidecarRelay
+_applepay          524   0.0  0.0  4426020   2364   ??  Ss   Fri08AM   0:00.55 /usr/libexec/nfcd
+masshiro           523   0.0  0.0  4428324    796   ??  S    Fri08AM   0:00.12 /System/Library/CoreServices/Menu Extras/SafeEjectGPUExtra.menu/Contents/XPCServices/SafeEjectGPUService.xpc/Contents/MacOS/SafeEjectGPUService
+masshiro           522   0.0  0.0  4823552      8   ??  S    Fri08AM   0:00.01 SafeEjectGPUAgent
+masshiro           521   0.0  0.2  5908132  34860   ??  S    Fri08AM   1:14.62 /Applications/irreader.app/Contents/MacOS/irreader
+masshiro           519   0.0  0.0  4395276   1324   ??  S    Fri08AM   0:00.06 /System/Library/PrivateFrameworks/CoreFollowUp.framework/Versions/A/Support/followupd
+_fpsd              518   0.0  0.0  4423944      8   ??  Ss   Fri08AM   0:00.11 /System/Library/PrivateFrameworks/CoreFP.framework/Versions/A/fpsd
+root               517   0.0  0.0  4425336      8   ??  Ss   Fri08AM   0:00.06 /System/Library/PrivateFrameworks/AssetCacheServicesExtensions.framework/XPCServices/AssetCacheTetheratorService.xpc/Contents/MacOS/AssetCacheTetheratorService
+masshiro           516   0.0  0.1  4793208  17096   ??  S    Fri08AM   0:24.84 /System/Library/PrivateFrameworks/CoreSuggestions.framework/Versions/A/Support/suggestd
+masshiro           515   0.0  0.0  4424448   1712   ??  Ss   Fri08AM   0:00.50 /System/Library/PrivateFrameworks/IMFoundation.framework/XPCServices/IMRemoteURLConnectionAgent.xpc/Contents/MacOS/IMRemoteURLConnectionAgent
+root               514   0.0  0.0  4386892   1180   ??  Ss   Fri08AM   0:00.04 /System/Library/CoreServices/CrashReporterSupportHelper server-init
+_assetcache        513   0.0  0.0  4427344   1128   ??  Ss   Fri08AM   0:00.22 /usr/libexec/AssetCache/AssetCache
+masshiro           512   0.0  0.0  4437488   5792   ??  S    Fri08AM   0:02.90 /usr/libexec/fmfd
+masshiro           510   0.0  0.0  4424168   4484   ??  S    Fri08AM   0:00.95 /System/Library/CoreServices/pbs
+masshiro           509   0.0  0.0  4430692   3556   ??  S    Fri08AM   0:01.37 /System/Library/PrivateFrameworks/AssetCacheServices.framework/Versions/A/XPCServices/AssetCacheLocatorService.xpc/Contents/MacOS/AssetCacheLocatorService -a
+masshiro           507   0.0  0.0  4879868   4932   ??  S    Fri08AM   0:03.11 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/corespotlightd
+masshiro           505   0.0  0.0  4460348   5140   ??  S    Fri08AM   0:03.05 /System/Library/CoreServices/CoreLocationAgent.app/Contents/MacOS/CoreLocationAgent
+root               501   0.0  0.0  4426404   2604   ??  Ss   Fri08AM   0:00.58 /usr/libexec/wifivelocityd
+masshiro           500   0.0  0.0  4398620    188   ??  S    Fri08AM   0:00.06 /usr/libexec/WiFiVelocityAgent
+masshiro           498   0.0  0.0  4430844   5316   ??  S    Fri08AM   0:01.43 /System/Library/PrivateFrameworks/CallHistory.framework/Support/CallHistoryPluginHelper
+root               495   0.0  0.0  4443816   2848   ??  Ss   Fri08AM   0:01.69 /usr/libexec/findmydeviced
+masshiro           493   0.0  0.1  4442504   9712   ??  S    Fri08AM   0:05.16 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/commerce
+masshiro           491   0.0  0.0  4395072   1424   ??  S    Fri08AM   0:01.04 /System/Library/PrivateFrameworks/MediaRemote.framework/Support/mediaremoteagent
+masshiro           490   0.0  0.0  4395068   3092   ??  S    Fri08AM   0:00.25 /System/Library/PrivateFrameworks/CoreCDP.framework/Versions/A/Resources/cdpd
+masshiro           489   0.0  0.0  4424448   1696   ??  Ss   Fri08AM   0:00.48 /System/Library/PrivateFrameworks/IMFoundation.framework/XPCServices/IMRemoteURLConnectionAgent.xpc/Contents/MacOS/IMRemoteURLConnectionAgent
+masshiro           488   0.0  0.0  4395016      8   ??  Ss   Fri08AM   0:00.02 /System/Library/PrivateFrameworks/IMFoundation.framework/XPCServices/IMRemoteURLConnectionAgent.xpc/Contents/MacOS/IMRemoteURLConnectionAgent
+masshiro           487   0.0  0.0  4467924   5736   ??  S    Fri08AM   0:04.96 /System/Library/CoreServices/TextInputSwitcher.app/Contents/MacOS/TextInputSwitcher
+masshiro           486   0.0  0.0  4429012   1872   ??  Ss   Fri08AM   0:01.31 /System/Library/PrivateFrameworks/IMFoundation.framework/XPCServices/IMRemoteURLConnectionAgent.xpc/Contents/MacOS/IMRemoteURLConnectionAgent
+masshiro           485   0.0  0.0  4440756   6532   ??  S    Fri08AM   0:03.47 /System/Library/PrivateFrameworks/CoreParsec.framework/parsecd
+masshiro           484   0.0  0.0  4397284   3060   ??  S    Fri08AM   0:00.42 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storeaccountd
+masshiro           483   0.0  0.0  4471216   5040   ??  Ss   Fri08AM   0:03.72 /Applications/OneDrive.app/Contents/PlugIns/FinderSync.appex/Contents/MacOS/FinderSync
+masshiro           482   0.0  0.2  5419396  26668   ??  S    Fri08AM   0:16.69 /System/Library/CoreServices/Spotlight.app/Contents/MacOS/Spotlight
+masshiro           481   0.0  0.0  4396728   1436   ??  S    Fri08AM   0:00.06 /System/Library/Frameworks/CryptoTokenKit.framework/ctkahp.bundle/Contents/MacOS/ctkahp
+masshiro           478   0.0  0.0  4960044   5536   ??  Ss   Fri08AM   0:02.89 /System/Library/CoreServices/Dock.app/Contents/XPCServices/com.apple.dock.extra.xpc/Contents/MacOS/com.apple.dock.extra
+masshiro           477   0.0  0.0  4428368   5632   ??  S    Fri08AM   1:13.31 /System/Library/PrivateFrameworks/UserActivity.framework/Agents/useractivityd
+root               476   0.0  0.0  4396692    304   ??  Ss   Fri08AM   0:00.07 /System/Library/Frameworks/CryptoTokenKit.framework/ctkahp.bundle/Contents/MacOS/ctkahp -d
+masshiro           474   0.0  0.2  4506528  25964   ??  S    Fri08AM   1:51.37 /Applications/Tencent Lemon.app/Contents/Library/LoginItems/LemonMonitor.app/Contents/MacOS/LemonMonitor 1023
+masshiro           473   0.0  0.0  4427756   3480   ??  S    Fri08AM   0:03.53 /System/Library/PrivateFrameworks/AppleMediaServices.framework/Resources/amsaccountsd
+masshiro           471   0.0  0.0  4966412   8352   ??  S    Fri08AM   0:08.43 /System/Library/CoreServices/TextInputMenuAgent.app/Contents/MacOS/TextInputMenuAgent
+masshiro           470   0.0  0.0  4425348   5292   ??  S    Fri08AM   0:02.01 /System/Library/CoreServices/diagnostics_agent
+masshiro           469   0.0  0.0  4425264   2684   ??  S    Fri08AM   1:02.51 /System/Library/CoreServices/cloudpaird
+masshiro           467   0.0  0.0  4955868   4820   ??  S    Fri08AM   0:03.06 /System/Library/CoreServices/AirPlayUIAgent.app/Contents/MacOS/AirPlayUIAgent --launchd
+masshiro           466   0.0  0.0  4328912     40   ??  S    Fri08AM   0:00.60 /Applications/EasyConnect.app/Contents/Resources/bin/ECAgentProxy
+masshiro           464   0.0  0.2  4530028  29192   ??  S    Fri08AM   3:09.61 /usr/libexec/sharingd
+masshiro           463   0.0  0.0  4427584   2772   ??  S    Fri08AM   0:02.82 /System/Library/PrivateFrameworks/AskPermission.framework/Versions/A/Resources/askpermissiond
+masshiro           461   0.0  0.0  4415744      8   ??  S    Fri08AM   0:00.05 /Users/masshiro/Library/Application Support/PortableSSD/SamsungPortableSSD.app/Contents/Resources/SamsungPortableSSDMon
+masshiro           460   0.0  0.1  4477300  10680   ??  S    Fri08AM   0:15.28 /Library/Application Support/Malwarebytes/MBAM/Engine.bundle/Contents/PlugIns/FrontendAgent.app/Contents/MacOS/FrontendAgent
+masshiro           458   0.0  0.0  4424404   1564   ??  S    Fri08AM   0:00.61 /System/Library/Image Capture/Support/icdd
+masshiro           456   0.0  0.0  4460260   5612   ??  S    Fri08AM   0:20.81 /System/Library/CoreServices/Siri.app/Contents/MacOS/Siri launchd
+masshiro           455   0.0  0.0  4427100   6304   ??  S    Fri08AM   0:02.17 /System/Library/Frameworks/InputMethodKit.framework/Resources/imklaunchagent
+masshiro           452   0.0  0.0  4423028   1268   ??  S    Fri08AM   0:00.19 /System/Library/CoreServices/SocialPushAgent.app/Contents/MacOS/SocialPushAgent
+masshiro           449   0.0  0.0  4428556   3572   ??  S    Fri08AM   0:03.73 /System/Library/PrivateFrameworks/CoreSpeech.framework/corespeechd
+masshiro           447   0.0  0.0  4425216   2956   ??  S    Fri08AM   0:00.32 /usr/libexec/neagent
+masshiro           446   0.0  0.0  4424088   2840   ??  S    Fri08AM   0:00.36 /System/Library/PrivateFrameworks/FamilyCircle.framework/Versions/A/Resources/familycircled
+masshiro           445   0.0  0.0  4430184   4568   ??  S    Fri08AM   0:00.65 /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/TrustedPeersHelper.xpc/Contents/MacOS/TrustedPeersHelper
+masshiro           444   0.0  0.0  4424408   4084   ??  Ss   Fri08AM   0:02.42 /System/Library/PrivateFrameworks/CloudDocsDaemon.framework/XPCServices/ContainerMetadataExtractor.xpc/Contents/MacOS/ContainerMetadataExtractor
+_ctkd              442   0.0  0.0  4363396    348   ??  Ss   Fri08AM   0:00.04 /System/Library/Frameworks/CryptoTokenKit.framework/ctkd -s
+masshiro           441   0.0  0.0  4957604   7340   ??  S    Fri08AM   0:03.27 /System/Library/PrivateFrameworks/AppSSO.framework/Support/AppSSOAgent.app/Contents/MacOS/AppSSOAgent
+masshiro           440   0.0  0.0  4484752   5124   ??  S    Fri08AM   0:03.73 /System/Library/PrivateFrameworks/AMPLibrary.framework/Versions/A/Support/AMPLibraryAgent --launchd
+masshiro           439   0.0  0.0  4439328   8192   ??  S    Fri08AM   0:13.34 /System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod
+masshiro           438   0.0  0.0  4424872    556   ??  Ss   Fri08AM   0:00.11 /System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/XPCServices/com.apple.siri.ClientFlow.ClientScripter.xpc/Contents/MacOS/com.apple.siri.ClientFlow.ClientScripter
+_fpsd              437   0.0  0.0  4399240   4064   ??  Ss   Fri08AM   0:01.15 /System/Library/PrivateFrameworks/CoreADI.framework/adid
+masshiro           436   0.0  0.0  4440688   7276   ??  S    Fri08AM   0:03.04 /System/Library/PrivateFrameworks/AuthKit.framework/Versions/A/Support/akd
+masshiro           435   0.0  0.1  4437724   9116   ??  S    Fri08AM   0:09.36 /usr/libexec/nsurlstoraged
+masshiro           434   0.0  0.0  4425416    428   ??  S    Fri08AM   0:00.10 /System/Library/Frameworks/CryptoTokenKit.framework/ctkd -tw
+masshiro           433   0.0  0.1  4605116  12508   ??  S    Fri08AM   0:04.91 /System/Library/PrivateFrameworks/IMDPersistence.framework/XPCServices/IMDPersistenceAgent.xpc/Contents/MacOS/IMDPersistenceAgent
+masshiro           432   0.0  0.0  4428964   5972   ??  S    Fri08AM   0:01.92 /System/Library/PrivateFrameworks/IMCore.framework/imagent.app/Contents/MacOS/imagent
+masshiro           431   0.0  0.0  4423896   6084   ??  S    Fri08AM   0:23.15 /System/Library/Frameworks/AddressBook.framework/Executables/ContactsAccountsService
+masshiro           430   0.0  0.1  4437972   8644   ??  S    Fri08AM   0:03.94 /System/Library/PrivateFrameworks/TelephonyUtilities.framework/callservicesd
+root               429   0.0  0.0  4424220    648   ??  Ss   Fri08AM   0:03.60 /usr/sbin/WirelessRadioManagerd
+_locationd         428   0.0  0.0  4396688    564   ??  S    Fri08AM   0:00.14 /usr/sbin/distnoted agent
+masshiro           427   0.0  0.1  4434744  11668   ??  Ss   Fri08AM   0:07.94 /System/Library/PrivateFrameworks/CalendarNotification.framework/Versions/A/XPCServices/CalNCService.xpc/Contents/MacOS/CalNCService
+masshiro           425   0.0  0.0  4432004   4564   ??  S    Fri08AM   0:01.46 /usr/libexec/adprivacyd
+masshiro           424   0.0  0.1  5099388  21144   ??  S    Fri08AM   0:15.66 /System/Library/CoreServices/NotificationCenter.app/Contents/MacOS/NotificationCenter
+masshiro           423   0.0  0.0  4433872   3060   ??  S    Fri08AM   0:02.94 /System/Library/CoreServices/mapspushd
+masshiro           422   0.0  0.0  4425980   4788   ??  S    Fri08AM   0:18.50 /usr/libexec/swcd
+masshiro           421   0.0  0.1  4460048  17588   ??  S    Fri08AM   0:13.92 /System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/Support/assistantd
+masshiro           420   0.0  0.1  4463220  13908   ??  S    Fri08AM   1:44.82 /System/Library/CoreServices/WiFiAgent.app/Contents/MacOS/WiFiAgent
+masshiro           419   0.0  0.1  4441000   9572   ??  S    Fri08AM   0:25.53 /System/Library/PrivateFrameworks/ScreenTimeCore.framework/Versions/A/ScreenTimeAgent
+masshiro           418   0.0  0.0  4437072   5104   ??  S    Fri08AM   0:07.00 /System/Library/Frameworks/CoreTelephony.framework/Support/CommCenter -L
+masshiro           417   0.0  0.0  4428692   6532   ??  S    Fri08AM   0:03.08 /System/Library/PrivateFrameworks/HomeKitDaemon.framework/Support/homed
+masshiro           416   0.0  0.0  4456236   7868   ??  S    Fri08AM   0:08.07 /System/Library/PrivateFrameworks/IDS.framework/identityservicesd.app/Contents/MacOS/identityservicesd
+masshiro           415   0.0  0.0  4430524   6128   ??  S    Fri08AM   0:05.83 /System/Library/PrivateFrameworks/CoreDuetContext.framework/Resources/ContextStoreAgent
+masshiro           414   0.0  0.0  4362784      8   ??  S    Fri08AM   0:00.01 /System/Library/CoreServices/APFSUserAgent
+masshiro           413   0.0  0.1  4459440  21052   ??  S    Fri08AM   0:25.10 /System/Library/PrivateFrameworks/CalendarAgent.framework/Executables/CalendarAgent
+masshiro           412   0.0  0.0  4425336    268   ??  S    Fri08AM   0:00.09 /usr/libexec/networkserviceproxy
+masshiro           411   0.0  0.1  4992892  11584   ??  S    Fri08AM   0:24.33 /System/Library/CoreServices/ControlStrip.app/Contents/MacOS/ControlStrip
+masshiro           410   0.0  0.0  4425628   3332   ??  S    Fri08AM   0:18.61 /System/Library/CoreServices/lockoutagent
+masshiro           409   0.0  0.1  4430692   9032   ??  S    Fri08AM   0:02.18 /usr/sbin/usernoted
+masshiro           408   0.0  0.1  4438932  18392   ??  S    Fri08AM   0:34.90 /usr/libexec/routined LAUNCHED_BY_LAUNCHD
+masshiro           407   0.0  0.0  4426532   5500   ??  S    Fri08AM   0:36.98 /usr/libexec/rapportd
+masshiro           405   0.0  0.2  4550940  34996   ??  S    Fri08AM   0:21.31 /System/Library/CoreServices/iconservicesagent
+root               403   0.0  0.0  4402728   3860   ??  Ss   Fri08AM   0:02.49 /usr/sbin/filecoordinationd
+masshiro           402   0.0  0.0  4396400   1416   ??  S    Fri08AM   0:00.30 /System/Library/Frameworks/Security.framework/Versions/A/Resources/CloudKeychainProxy.bundle/Contents/MacOS/CloudKeychainProxy
+masshiro           400   0.0  0.0  4427300   7560   ??  S    Fri08AM   0:32.30 /System/Library/Frameworks/ApplicationServices.framework/Frameworks/ATS.framework/Support/fontd
+masshiro           396   0.0  0.0  4427680   5544   ??  S    Fri08AM   0:02.18 /System/Library/CoreServices/sharedfilelistd
+masshiro           393   0.0  0.0  4429268   3152   ??  S    Fri08AM   0:01.09 /usr/libexec/dmd
+masshiro           392   0.0  0.0  4424628   5932   ??  S    Fri08AM   0:22.06 /System/Library/PrivateFrameworks/ViewBridge.framework/Versions/A/XPCServices/ViewBridgeAuxiliary.xpc/Contents/MacOS/ViewBridgeAuxiliary
+masshiro           391   0.0  0.2  4562248  26204   ??  S    Fri08AM   1:33.87 /System/Library/Frameworks/Accounts.framework/Versions/A/Support/accountsd
+masshiro           390   0.0  0.0  4437084   7740   ??  S    Fri08AM   0:10.02 /usr/libexec/nsurlsessiond
+masshiro           389   0.0  0.0  4428228   6556   ??  S    Fri08AM   0:05.50 /System/Library/PrivateFrameworks/TCC.framework/Resources/tccd
+masshiro           388   0.0  0.0  4425196   1596   ??  S    Fri08AM   0:00.28 /System/Library/CoreServices/backgroundtaskmanagementagent
+masshiro           387   0.0  0.1  4433060   9100   ??  S    Fri08AM   0:40.06 /usr/libexec/pkd
+masshiro           386   0.0  0.0  4428564   7872   ??  S    Fri08AM   0:03.29 /usr/libexec/secinitd
+masshiro           385   0.0  0.0  5997420   3824   ??  Ss   Fri08AM   0:02.82 /System/Library/Frameworks/Quartz.framework/Versions/A/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService
+masshiro           384   0.0  0.1  4430044   9004   ??  S    Fri08AM   0:05.19 /System/Library/PrivateFrameworks/CloudDocsDaemon.framework/Versions/A/Support/bird
+root               383   0.0  0.0  4428596   2620   ??  Ss   Fri08AM   0:00.94 /usr/sbin/systemsoundserverd
+masshiro           382   0.0  0.1  4457812  18912   ??  S    Fri08AM   0:17.70 /System/Library/PrivateFrameworks/CloudKitDaemon.framework/Support/cloudd
+masshiro           381   0.0  0.0  4397200   2404   ??  S    Fri08AM   0:04.20 /usr/libexec/pboard
+masshiro           377   0.0  0.1  5027800  23792   ??  S    Fri08AM   5:12.19 /System/Library/CoreServices/SystemUIServer.app/Contents/MacOS/SystemUIServer
+masshiro           376   0.0  0.1  5462160  24260   ??  S    Fri08AM   0:50.84 /System/Library/CoreServices/Dock.app/Contents/MacOS/Dock
+masshiro           375   0.0  0.1  4458892   8908   ??  S    Fri08AM   0:03.11 /System/Library/CoreServices/talagent
+masshiro           374   0.0  0.1  4442312  18300   ??  S    Fri08AM   0:28.00 /usr/libexec/secd
+masshiro           373   0.0  0.1  4440380  14576   ??  S    Fri08AM   0:08.65 /usr/libexec/lsd
+masshiro           372   0.0  0.1  4433840  14344   ??  S    Fri08AM   1:31.80 /usr/libexec/trustd --agent
+masshiro           370   0.0  0.0  4396688   7224   ??  S    Fri08AM   0:39.87 /usr/sbin/distnoted agent
+masshiro           369   0.0  0.0  4436000   8172   ??  S    Fri08AM   0:01.99 /System/Library/PrivateFrameworks/CloudServices.framework/Helpers/com.apple.sbd
+masshiro           368   0.0  0.0  4433128   6740   ??  S    Fri08AM   0:38.87 /usr/libexec/knowledge-agent
+masshiro           366   0.0  0.0  4425872   6256   ??  S    Fri08AM   1:29.69 /usr/libexec/UserEventAgent (Aqua)
+_nsurlstoraged     364   0.0  0.0  4335696      8   ??  Ss   Fri08AM   0:00.06 /usr/libexec/nsurlstoraged --privileged
+root               363   0.0  0.0  4423440    308   ??  Ss   Fri08AM   0:00.15 /usr/libexec/biokitaggdd
+root               362   0.0  0.0  4424488   3368   ??  Ss   Fri08AM   0:02.42 /usr/libexec/biometrickitd --launchd
+_captiveagent      361   0.0  0.0  4397764    872   ??  Ss   Fri08AM   0:00.19 /usr/libexec/captiveagent
+root               360   0.0  0.0  4388916      8   ??  Ss   Fri08AM   0:00.03 /usr/libexec/securityd_service
+masshiro           358   0.0  0.0  4424644   4516   ??  S    Fri08AM   0:02.97 /System/Library/Frameworks/LocalAuthentication.framework/Support/coreauthd
+root               357   0.0  0.0  4431292   3412   ??  Ss   Fri08AM   0:00.43 /System/Library/Frameworks/LocalAuthentication.framework/Support/coreauthd
+root               353   0.0  0.0  4330340    504   ??  Ss   Fri08AM   0:00.03 /System/Library/Frameworks/GSS.framework/Helpers/GSSCred
+root               349   0.0  0.0  4371004    968   ??  Ss   Fri08AM   0:00.05 /System/Library/PrivateFrameworks/AccountPolicy.framework/XPCServices/com.apple.AccountPolicyHelper.xpc/Contents/MacOS/com.apple.AccountPolicyHelper
+root               348   0.0  0.0  4395612      8   ??  Ss   Fri08AM   0:00.02 /System/Library/Frameworks/CoreMediaIO.framework/Versions/A/XPCServices/com.apple.cmio.registerassistantservice.xpc/Contents/MacOS/com.apple.cmio.registerassistantservice
+root               343   0.0  0.0  4396688    588   ??  S    Fri08AM   0:00.15 /usr/sbin/distnoted agent
+root               342   0.0  0.0  4324608      8   ??  Ss   Fri08AM   0:00.02 /usr/libexec/bootinstalld
+root               341   0.0  0.0  4423760    952   ??  S    Fri08AM   0:04.53 /System/Library/PrivateFrameworks/ViewBridge.framework/Versions/A/XPCServices/ViewBridgeAuxiliary.xpc/Contents/MacOS/ViewBridgeAuxiliary
+root               339   0.0  0.0  4426024   1072   ??  S    Fri08AM   0:00.88 /usr/sbin/systemstats --logger-helper /private/var/db/systemstats
+root               338   0.0  0.0  4435212   4020   ??  Ss   Fri08AM   0:06.16 /System/Library/CoreServices/SubmitDiagInfo server-init
+_softwareupdate    337   0.0  0.0  4395664    244   ??  Ss   Fri08AM   0:00.34 /System/Library/PrivateFrameworks/BridgeOSSoftwareUpdate.framework/Support/bosUpdateProxy
+root               336   0.0  0.1  4398976   9376   ??  Ss   Fri08AM   0:40.07 /usr/libexec/sysmond
+_appleevents       332   0.0  0.0  4428080   3860   ??  Ss   Fri08AM   0:01.20 /System/Library/CoreServices/appleeventsd --server
+_cmiodalassistants   331   0.0  0.0  4458880   1128   ??  Ss   Fri08AM   0:01.38 /System/Library/Frameworks/CoreMediaIO.framework/Resources/VDC.plugin/Contents/Resources/VDCAssistant
+root               330   0.0  0.0  4319240    244   ??  Ss   Fri08AM   0:00.26 /usr/libexec/thermald
+root               329   0.0  0.0  4424496    592   ??  Ss   Fri08AM   0:01.21 /usr/libexec/usbd
+root               328   0.0  0.0  4395108    980   ??  Ss   Fri08AM   0:00.43 /usr/libexec/apfsd
+root               327   0.0  0.0  4337728    176   ??  Ss   Fri08AM   0:00.10 /System/Library/CryptoTokenKit/com.apple.ifdreader.slotd/Contents/MacOS/com.apple.ifdreader
+root               326   0.0  0.0  4351024      8   ??  Ss   Fri08AM   0:00.01 /usr/libexec/multiversed
+root               325   0.0  0.0  4353260      8   ??  Ss   Fri08AM   0:00.02 /usr/libexec/colorsyncd
+root               324   0.0  0.0  4386916      8   ??  Ss   Fri08AM   0:00.05 /usr/libexec/colorsync.displayservices
+root               323   0.0  0.0  4355928    608   ??  Ss   Fri08AM   0:00.11 /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/CVMServer
+root               320   0.0  0.0  4426344    468   ??  Ss   Fri08AM   0:00.13 /usr/libexec/secinitd
+root               318   0.0  2.3  6038976 384300   ??  Ss   Fri08AM   9:34.43 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mds_stores
+root               315   0.0  0.0  4399316   2440   ??  Ss   Fri08AM   0:00.81 /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/com.apple.CodeSigningHelper.xpc/Contents/MacOS/com.apple.CodeSigningHelper
+root               310   0.0  0.0  4432452   6744   ??  Ss   Fri08AM   0:07.07 /usr/libexec/runningboardd
+_driverkit         309   0.0  0.0  4807496    604   ??  Ss   Fri08AM   0:00.12 /System/Library/DriverExtensions/AppleUserHIDDrivers.dext/AppleUserHIDDrivers com.apple.driverkit.AppleUserHIDEventDriver.dfrv2 0x1000005b5
+_driverkit         308   0.0  0.0  4798276      8   ??  Ss   Fri08AM   0:00.00 /System/Library/DriverExtensions/AppleUserHIDDrivers.dext/AppleUserHIDDrivers com.apple.driverkit.AppleUserHIDEventDriver 0x1000005a5
+root               307   0.0  0.0  4346084      8   ??  Ss   Fri08AM   0:00.02 /usr/libexec/smd
+_coreaudiod        305   0.0  0.0  4316372      8   ??  Ss   Fri08AM   0:00.01 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+root               304   0.0  0.0  4356408    412   ??  Ss   Fri08AM   0:00.07 /System/Library/Frameworks/AudioToolbox.framework/AudioComponentRegistrar -daemon
+_driverkit         302   0.0  0.0  4809520    592   ??  Ss   Fri08AM   0:00.23 /System/Library/DriverExtensions/AppleUserHIDDrivers.dext/AppleUserHIDDrivers com.apple.driverkit.AppleUserUSBHostHIDDevice0 0x100000587
+_driverkit         297   0.0  0.0  4809520    632   ??  Ss   Fri08AM   0:01.10 /System/Library/DriverExtensions/AppleUserHIDDrivers.dext/AppleUserHIDDrivers com.apple.driverkit.AppleUserUSBHostHIDDevice0 0x10000057e
+_driverkit         296   0.0  0.0  4799280    536   ??  Ss   Fri08AM   0:00.03 /System/Library/DriverExtensions/AppleUserHIDDrivers.dext/AppleUserHIDDrivers com.apple.driverkit.AppleUserUSBHostHIDDevice0 0x10000057a
+_driverkit         294   0.0  0.0  4800304    612   ??  Ss   Fri08AM   0:00.24 /System/Library/DriverExtensions/AppleUserHIDDrivers.dext/AppleUserHIDDrivers com.apple.driverkit.AppleUserUSBHostHIDDevice0 0x100000574
+root               293   0.0  0.0  4407000   3712   ??  Ss   Fri08AM   0:03.55 /usr/libexec/diskmanagementd
+root               291   0.0  0.0  4430052   4540   ??  Ss   Fri08AM   0:09.84 /Library/Application Support/Malwarebytes/MBAM/Engine.bundle/Contents/PlugIns/SettingsDaemon.app/Contents/MacOS/SettingsDaemon
+root               290   0.0  0.1  4438936  17052   ??  Ss   Fri08AM   0:07.25 /usr/libexec/lsd runAsRoot
+root             44076   0.0  0.0  4268956   1080 s000  R+   10:41AM   0:00.00 ps aux
+root               270   0.0  0.0  4430252   1920   ??  Ss   Fri08AM   0:00.86 /System/Library/CoreServices/backupd.bundle/Contents/Resources/backupd-helper -launchd
+_nsurlsessiond     267   0.0  0.0  4441596   7212   ??  Ss   Fri08AM   0:05.06 /usr/libexec/nsurlsessiond --privileged
+_locationd         265   0.0  0.0  4428432   3428   ??  S    Fri08AM   0:00.23 /usr/libexec/trustd --agent
+_locationd         264   0.0  0.0  4353520      8   ??  S    Fri08AM   0:00.01 /usr/sbin/cfprefsd agent
+_locationd         263   0.0  0.0  4426512    548   ??  S    Fri08AM   0:00.12 /usr/libexec/secinitd
+_locationd         262   0.0  0.0  4440272   7568   ??  S    Fri08AM   0:01.56 /System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod
+root               261   0.0  0.0  4426588   2460   ??  Ss   Fri08AM   0:11.21 /System/Library/PrivateFrameworks/WirelessDiagnostics.framework/Support/awdd
+root               259   0.0  0.0  4415876    108   ??  Ss   Fri08AM   0:03.48 /usr/sbin/mDNSResponderHelper
+_coreaudiod        255   0.0  0.0  4423720    540   ??  Ss   Fri08AM   0:00.11 /System/Library/Frameworks/CoreAudio.framework/Versions/A/XPCServices/com.apple.audio.DriverHelper.xpc/Contents/MacOS/com.apple.audio.DriverHelper
+root               250   0.0  0.1  4432104  15144   ??  Ss   Fri08AM   0:08.13 /usr/libexec/mobileassetd
+root               242   0.0  0.0  4434708   3960   ??  Ss   Fri08AM   0:01.28 /usr/libexec/searchpartyd
+root               229   0.0  0.0  4425200   2272   ??  Ss   Fri08AM   0:00.40 /usr/libexec/nehelper
+root               227   0.0  0.1  4433296  10012   ??  Ss   Fri08AM   0:51.54 /System/Library/PrivateFrameworks/CoreDuetContext.framework/Resources/contextstored
+_coreaudiod        225   0.0  0.1  4442016  11096   ??  Ss   Fri08AM  13:46.40 /usr/sbin/coreaudiod
+_analyticsd        224   0.0  0.0  4430676   6800   ??  Ss   Fri08AM   0:09.63 /System/Library/PrivateFrameworks/CoreAnalytics.framework/Support/analyticsd
+masshiro           179   0.0  0.2  4511944  28816   ??  Ss   Fri08AM   0:28.81 /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow console
+root               177   0.0  0.1  4435068  10360   ??  Ss   Fri08AM   0:10.22 /System/Library/PrivateFrameworks/TCC.framework/Resources/tccd system
+root               170   0.0  0.0  4387404      8   ??  Ss   Fri08AM   0:00.13 aslmanager
+root               169   0.0  0.0  4396268   4324   ??  Ss   Fri08AM   0:17.82 /usr/sbin/cfprefsd daemon
+root               168   0.0  0.1  4447096  16124   ??  Ss   Fri08AM   0:08.68 /usr/libexec/syspolicyd
+root               167   0.0  0.0  4455088   3384   ??  Ss   Fri08AM   0:02.22 /System/Library/CoreServices/coreservicesd
+root               166   0.0  0.0  4441424   7212   ??  Ss   Fri08AM   0:06.37 /usr/libexec/amfid
+_distnote          161   0.0  0.0  4396688   1192   ??  Ss   Fri08AM   0:01.27 /usr/sbin/distnoted daemon
+root               158   0.0  0.0  4427224   3692   ??  Ss   Fri08AM   0:48.22 /usr/libexec/AirPlayXPCHelper
+root               157   0.0  0.0  4431116   2688   ??  Ss   Fri08AM   0:14.54 /usr/libexec/corebrightnessd --launchd
+_hidd              155   0.0  0.0  4428508   5092   ??  Ss   Fri08AM  13:17.09 /usr/libexec/hidd
+root               153   0.0  0.0  4432088   8348   ??  Ss   Fri08AM   6:24.80 /usr/sbin/bluetoothd
+root               150   0.0  0.0  4329704     84   ??  Ss   Fri08AM   0:00.01 /usr/sbin/KernelEventAgent
+root               149   0.0  0.0  4438188   4416   ??  Ss   Fri08AM   0:00.45 /System/Library/PrivateFrameworks/GenerationalStorage.framework/Versions/A/Support/revisiond
+root               148   0.0  0.0  4395088   1040   ??  Ss   Fri08AM   0:00.07 /System/Library/CoreServices/logind
+root               144   0.0  0.0  4431508   6960   ??  Ss   Fri08AM   0:32.96 /usr/libexec/dasd
+_displaypolicyd    142   0.0  0.0  4398396    948   ??  Ss   Fri08AM   0:00.56 /usr/libexec/displaypolicyd -k 1
+root               141   0.0  0.0  4344424     40   ??  Ss   Fri08AM   0:00.03 autofsd
+_locationd         139   0.0  0.0  4438108   7924   ??  Ss   Fri08AM   0:23.42 /usr/libexec/locationd
+root               137   0.0  0.0  4341720     28   ??  Ss   Fri08AM   0:00.01 auditd -l
+root               136   0.0  0.0  4430340   5732   ??  Ss   Fri08AM   0:29.25 /usr/sbin/securityd -i
+root               134   0.0  0.0  4335728      8   ??  Ss   Fri08AM   0:00.01 /Applications/OneDrive.app/Contents/StandaloneUpdaterDaemon.xpc/Contents/MacOS/StandaloneUpdaterDaemon
+_timed             133   0.0  0.0  4423440   2324   ??  Ss   Fri08AM   0:05.24 /usr/libexec/timed
+root               131   0.0  0.1  4442424   8860   ??  Ss   Fri08AM   0:15.96 /System/Library/PrivateFrameworks/ApplePushService.framework/apsd
+root               130   0.0  0.1  4463296  15168   ??  Ss   Fri08AM   0:56.76 /usr/libexec/opendirectoryd
+root               127   0.0  0.0  4435196   5432   ??  Ss   Fri08AM   0:09.33 /usr/libexec/coreduetd
+root               124   0.0  0.0  4423076   2728   ??  Ss   Fri08AM   1:23.64 /usr/libexec/diskarbitrationd
+_iconservices      123   0.0  0.0  4397076   1272   ??  Ss   Fri08AM   0:00.12 /System/Library/CoreServices/iconservicesd
+root               122   0.0  0.3  4632376  44456   ??  Ss   Fri08AM   1:39.46 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Support/mds
+root               118   0.0  0.0  4396184   1772   ??  Ss   Fri08AM   0:04.90 /usr/libexec/watchdogd
+root               115   0.0  0.0  4337648    120   ??  Ss   Fri08AM   0:00.09 /Library/Application Support/MICE/360Daemon.app/Contents/MacOS/360Daemon
+root               114   0.0  0.0  4395444   1704   ??  Ss   Fri08AM   0:00.28 /usr/libexec/keybagd -t 15
+root               113   0.0  0.2  4530088  26992   ??  Ss   Fri08AM   1:23.20 /usr/libexec/logd
+root               109   0.0  0.0  4424956   4692   ??  Ss   Fri08AM   1:14.86 /System/Library/CoreServices/powerd.bundle/powerd
+root               108   0.0  0.0  4379656      8   ??  Ss   Fri08AM   0:00.02 endpointsecurityd
+root               107   0.0  0.0  4430584   4464   ??  Ss   Fri08AM   0:50.48 /usr/libexec/configd
+root               106   0.0  0.1  4440100  18896   ??  Ss   Fri08AM   2:16.11 /usr/sbin/systemstats --daemon
+root               102   0.0  0.0  4433992   6748   ??  Ss   Fri08AM   0:07.95 /System/Library/PrivateFrameworks/MediaRemote.framework/Support/mediaremoted
+root               101   0.0  0.0  4614036   6456   ??  Ss   Fri08AM   1:20.39 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/FSEvents.framework/Versions/A/Support/fseventsd
+root               100   0.0  0.1  4930648  15192   ??  Ss   Fri08AM   0:20.71 /usr/libexec/kextd
+root                99   0.0  0.0  4329708    544   ??  Ss   Fri08AM   0:02.78 /System/Library/PrivateFrameworks/Uninstall.framework/Resources/uninstalld
+root                97   0.0  0.2  4468764  26504   ??  S<s  Fri08AM   0:49.17 /Library/Application Support/Malwarebytes/MBAM/Engine.bundle/Contents/PlugIns/RTProtectionDaemon.app/Contents/MacOS/RTProtectionDaemon -i Malwarebytes-Mac-4.0.30.3073.pkg
+root                96   0.0  0.0  4346424    284   ??  Ss   Fri08AM   0:00.03 /Library/PrivilegedHelperTools/com.crystalidea.macsfancontrol.smcwrite
+root                94   0.0  0.0  4427356   5560   ??  Ss   Fri08AM   0:35.51 /usr/libexec/UserEventAgent (System)
+root                93   0.0  0.0  4397772   1008   ??  Ss   Fri08AM   0:24.01 /usr/sbin/syslogd
+root               288   0.0  0.1  4447828  14132   ??  Ss   Fri08AM   2:18.62 /usr/libexec/airportd
+masshiro         44059   0.0  0.0  4377760   8256   ??  Ss   10:41AM   0:00.03 /System/Library/PrivateFrameworks/CloudDocs.framework/PlugIns/com.apple.CloudDocs.MobileDocumentsFileProvider.appex/Contents/MacOS/com.apple.CloudDocs.MobileDocumentsFileProvider
+masshiro         44028   0.0  0.2  8894176  32648   ??  S    10:40AM   0:00.09 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/81.0.4044.122/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --field-trial-handle=1718379636,6005351805522046289,11675208128047520950,131072 --enable-features=ParallelDownloading --lang=en-US --metrics-client-id=44581a73-dc07-43e7-95d3-dc755c3e1814 --enable-auto-reload --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=672 --no-v8-untrusted-code-mitigations --shared-files --seatbelt-client=180
+root             44002   0.0  0.1  5432168  16432   ??  Ss   10:39AM   0:00.09 /System/Library/Frameworks/CFNetwork.framework/Versions/A/Support/CFNetworkAgent
+masshiro         43953   0.0  0.0  4362816   8284   ??  S    10:37AM   0:00.05 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+masshiro         43937   0.0  0.1  4404288  10424   ??  S    10:36AM   0:00.08 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+masshiro         43904   0.0  0.1  4360160  11908   ??  S    10:35AM   0:00.05 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+masshiro         43896   0.0  0.1  4442608  23704   ??  S    10:34AM   0:00.35 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+masshiro         43895   0.0  0.2  4398380  26816   ??  S    10:34AM   0:00.14 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+masshiro         43865   0.0  0.2  4456720  40980   ??  S    10:33AM   0:01.66 /System/Library/PrivateFrameworks/HelpData.framework/Versions/A/Resources/helpd
+masshiro         43777   0.0  0.9  9068040 159060   ??  S    10:30AM   0:06.56 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/81.0.4044.122/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --field-trial-handle=1718379636,6005351805522046289,11675208128047520950,131072 --enable-features=ParallelDownloading --lang=en-US --metrics-client-id=44581a73-dc07-43e7-95d3-dc755c3e1814 --enable-auto-reload --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=650 --no-v8-untrusted-code-mitigations --shared-files --seatbelt-client=68
+masshiro         43772   0.0  1.0  9198948 172264   ??  S    10:30AM   0:09.38 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/81.0.4044.122/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --field-trial-handle=1718379636,6005351805522046289,11675208128047520950,131072 --enable-features=ParallelDownloading --lang=en-US --metrics-client-id=44581a73-dc07-43e7-95d3-dc755c3e1814 --enable-auto-reload --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=648 --no-v8-untrusted-code-mitigations --shared-files --seatbelt-client=68
+masshiro         43694   0.0  0.0  4311144   1764 s000  S    10:27AM   0:00.02 -bash
+root             43693   0.0  0.0  4348964   4676 s000  Ss   10:27AM   0:00.03 login -pf masshiro
+masshiro         43676   0.0  0.8  9059428 132316   ??  S    10:27AM   0:01.61 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/81.0.4044.122/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --field-trial-handle=1718379636,6005351805522046289,11675208128047520950,131072 --enable-features=ParallelDownloading --lang=en-US --metrics-client-id=44581a73-dc07-43e7-95d3-dc755c3e1814 --enable-auto-reload --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=642 --no-v8-untrusted-code-mitigations --shared-files --seatbelt-client=178
+masshiro         43675   0.0  0.3  8922728  54476   ??  S    10:27AM   0:00.79 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/81.0.4044.122/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --field-trial-handle=1718379636,6005351805522046289,11675208128047520950,131072 --enable-features=ParallelDownloading --lang=en-US --metrics-client-id=44581a73-dc07-43e7-95d3-dc755c3e1814 --enable-auto-reload --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=641 --no-v8-untrusted-code-mitigations --shared-files --seatbelt-client=178
+masshiro         43673   0.0  0.3  8932200  56128   ??  S    10:27AM   0:00.50 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/81.0.4044.122/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --field-trial-handle=1718379636,6005351805522046289,11675208128047520950,131072 --enable-features=ParallelDownloading --lang=en-US --metrics-client-id=44581a73-dc07-43e7-95d3-dc755c3e1814 --enable-auto-reload --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=639 --no-v8-untrusted-code-mitigations --shared-files --seatbelt-client=178
+masshiro         43672   0.0  0.4  9012756  71560   ??  S    10:27AM   0:00.54 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/81.0.4044.122/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --field-trial-handle=1718379636,6005351805522046289,11675208128047520950,131072 --enable-features=ParallelDownloading --lang=en-US --metrics-client-id=44581a73-dc07-43e7-95d3-dc755c3e1814 --enable-auto-reload --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=638 --no-v8-untrusted-code-mitigations --shared-files --seatbelt-client=178
+masshiro         43565   0.0  0.9  9215464 158248   ??  S    10:23AM   0:09.65 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/81.0.4044.122/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --field-trial-handle=1718379636,6005351805522046289,11675208128047520950,131072 --enable-features=ParallelDownloading --lang=en-US --metrics-client-id=44581a73-dc07-43e7-95d3-dc755c3e1814 --enable-auto-reload --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=634 --no-v8-untrusted-code-mitigations --shared-files --seatbelt-client=190
+masshiro         43514   0.0  0.7  9048488 119048   ??  S    10:21AM   0:01.60 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/81.0.4044.122/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --field-trial-handle=1718379636,6005351805522046289,11675208128047520950,131072 --enable-features=ParallelDownloading --lang=en-US --metrics-client-id=44581a73-dc07-43e7-95d3-dc755c3e1814 --enable-auto-reload --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=628 --no-v8-untrusted-code-mitigations --shared-files --seatbelt-client=178
+masshiro         43448   0.0  0.1  4340764  12356   ??  S    10:18AM   0:00.05 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+masshiro         43441   0.0  0.6  9035964  99176   ??  S    10:18AM   0:03.12 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/81.0.4044.122/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --field-trial-handle=1718379636,6005351805522046289,11675208128047520950,131072 --enable-features=ParallelDownloading --lang=en-US --metrics-client-id=44581a73-dc07-43e7-95d3-dc755c3e1814 --enable-auto-reload --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=625 --no-v8-untrusted-code-mitigations --shared-files --seatbelt-client=178
+masshiro         43385   0.0  0.8  8982424 139272   ??  S    10:16AM   0:05.23 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/81.0.4044.122/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --field-trial-handle=1718379636,6005351805522046289,11675208128047520950,131072 --enable-features=ParallelDownloading --lang=en-US --metrics-client-id=44581a73-dc07-43e7-95d3-dc755c3e1814 --enable-auto-reload --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=623 --no-v8-untrusted-code-mitigations --shared-files --seatbelt-client=179
+masshiro         43299   0.0  0.8  8978668 127300   ??  S    10:12AM   0:04.40 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/81.0.4044.122/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --field-trial-handle=1718379636,6005351805522046289,11675208128047520950,131072 --enable-features=ParallelDownloading --lang=en-US --metrics-client-id=44581a73-dc07-43e7-95d3-dc755c3e1814 --enable-auto-reload --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=609 --no-v8-untrusted-code-mitigations --shared-files --seatbelt-client=178
+masshiro         43298   0.0  0.8  9049164 137716   ??  S    10:12AM   0:03.41 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/81.0.4044.122/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --field-trial-handle=1718379636,6005351805522046289,11675208128047520950,131072 --enable-features=ParallelDownloading --lang=en-US --metrics-client-id=44581a73-dc07-43e7-95d3-dc755c3e1814 --enable-auto-reload --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=608 --no-v8-untrusted-code-mitigations --shared-files --seatbelt-client=178
+masshiro         43247   0.0  0.7  9082916 123144   ??  S    10:11AM   0:05.03 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/81.0.4044.122/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --field-trial-handle=1718379636,6005351805522046289,11675208128047520950,131072 --enable-features=ParallelDownloading --lang=en-US --metrics-client-id=44581a73-dc07-43e7-95d3-dc755c3e1814 --enable-auto-reload --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=601 --no-v8-untrusted-code-mitigations --shared-files --seatbelt-client=178
+masshiro         43222   0.0  0.0  4305108   3440   ??  Ss   10:10AM   0:00.01 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+masshiro         43221   0.0  0.3  6424720  54804   ??  Ss   10:10AM   0:00.81 /System/Library/PrivateFrameworks/Lookup.framework/Versions/A/XPCServices/LookupViewService.xpc/Contents/MacOS/LookupViewService
+masshiro         43188   0.0  0.8  9049428 139244   ??  S    10:08AM   0:03.09 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/81.0.4044.122/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --field-trial-handle=1718379636,6005351805522046289,11675208128047520950,131072 --enable-features=ParallelDownloading --lang=en-US --metrics-client-id=44581a73-dc07-43e7-95d3-dc755c3e1814 --enable-auto-reload --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=595 --no-v8-untrusted-code-mitigations --shared-files --seatbelt-client=165
+masshiro         43186   0.0  0.1  4442048  23176   ??  S    10:08AM   0:00.98 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+root             43164   0.0  0.0  4415024   5624   ??  Ss   10:08AM   0:00.03 /Applications/OneDrive.app/Contents/OneDriveUpdaterDaemon.xpc/Contents/MacOS/OneDriveUpdaterDaemon
+masshiro         43021   0.0  0.0  4341656   5972   ??  Ss   10:04AM   0:00.02 /Applications/Xcode.app/Contents/SharedFrameworks/DVTSourceControl.framework/Versions/A/XPCServices/com.apple.dt.Xcode.sourcecontrol.WorkingCopyScanner.xpc/Contents/MacOS/com.apple.dt.Xcode.sourcecontrol.WorkingCopyScanner
+masshiro         43019   0.0  0.2  4587772  27980   ??  Ss   10:04AM   0:00.29 /Applications/Xcode.app/Contents/SharedFrameworks/SourceKit.framework/Versions/A/XPCServices/com.apple.dt.SKAgent.xpc/Contents/MacOS/com.apple.dt.SKAgent
